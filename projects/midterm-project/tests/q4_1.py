@@ -1,0 +1,11 @@
+test = {   'name': 'q4_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(berkeley_admit, bpd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> berkeley_admit.shape == (700, 8)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> set(berkeley_admit.columns) == {'Name', 'City', 'Region', 'Applied', 'Admitted', 'Enrolled', 'AcceptanceRate', 'YieldRate'}\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

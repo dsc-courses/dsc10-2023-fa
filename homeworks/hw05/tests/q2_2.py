@@ -1,0 +1,10 @@
+test = {   'name': 'q2_2',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> import numbers\n>>> isinstance(paid_not_indie_prices_63rd, float) and isinstance(n, numbers.Integral) and isinstance(k, numbers.Integral)\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> paid_not_indie_prices_63rd != 12.080000000000146 # Don't use np.percentile!\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

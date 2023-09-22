@@ -1,0 +1,10 @@
+test = {   'name': 'q3_2',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> import numbers\n>>> isinstance(states_not_varieties, numbers.Integral) and isinstance(varieties_not_states, numbers.Integral)\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> varieties_not_states - states_not_varieties > 50 # There is a large disparity in the two values!\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

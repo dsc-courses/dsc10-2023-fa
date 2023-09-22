@@ -1,0 +1,11 @@
+test = {   'name': 'q0_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> 1 in true_percentile\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 2 in true_percentile\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 3 not in true_percentile\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 4 in true_percentile\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 5 not in true_percentile\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

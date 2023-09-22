@@ -1,0 +1,10 @@
+test = {   'name': 'q1_3',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> set(faithful_su.columns) == set(['duration_su', 'wait_su'])\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> np.isclose(faithful_su.get('duration_su').mean(), 0)\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(duration_std, 1.139271210225768)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(wait_std, 13.569960017586371)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

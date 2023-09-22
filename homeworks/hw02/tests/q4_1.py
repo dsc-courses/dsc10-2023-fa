@@ -1,0 +1,10 @@
+test = {   'name': 'q4_1',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> callable(timestamp_to_year) and isinstance(timestamp_to_year(1506006095), int) # Make sure your return type is an integer.\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> timestamp_to_year(1506006095) == 2017\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,11 @@
+test = {   'name': 'q3_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> len(example_estimates) == 10000\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(example_estimates) > 0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(example_estimates) < 2000\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(example_estimates) > 800\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.mean(example_estimates) < 1200\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

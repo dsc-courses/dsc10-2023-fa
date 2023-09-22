@@ -1,0 +1,10 @@
+test = {   'name': 'q1_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> import numbers\n>>> python_java_with_language.shape == (3308, 7)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> list(python_java_with_language.columns) == ['Id', 'Title', 'Body', 'Tags', 'CreationDate', 'Ratings', 'CodingLanguage']\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

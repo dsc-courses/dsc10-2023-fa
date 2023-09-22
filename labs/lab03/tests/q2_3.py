@@ -1,0 +1,10 @@
+test = {   'name': 'q2_3',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> spicy_nacho == 'Spicy!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('cheese') == 'Cheesy!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('both') == 'Delicious!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('neither') == 'Boring.'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
