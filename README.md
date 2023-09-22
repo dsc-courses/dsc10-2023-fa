@@ -1,3 +1,3 @@
-# dsc10-2023-sp
+# dsc10-2023-fa
 
-Public repository for the Spring 2023 offering of DSC 10.
+Public repository for the Fall 2023 offering of DSC 10.
