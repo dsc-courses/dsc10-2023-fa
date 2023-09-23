@@ -9,7 +9,7 @@ nav_order: 7
 
 _Hover over an emoji to see a description._
 
-## Instructor
+## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

@@ -4,9 +4,9 @@ role: Tutor
 pronouns: she/her
 email: groberg@ucsd.edu
 photo: ../assets/staff-images/gina-roberg.jpg
-description: 2nd year, Data Science, Sixth
+description: 3rd year, Data Science, Sixth
 hometown: San Diego, CA
-askabout: Film, acting, and nail art!
-foodemoji: 🍜
-food: Formoosa, Sizzling Pot King, Pho Ban Mai
+askabout:  Film, acting, nail art, and crochet!
+foodemoji: 🍛
+food: Sizzling Pot King, Formoosa, Crab Hut
 ---

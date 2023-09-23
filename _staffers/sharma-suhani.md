@@ -3,10 +3,10 @@ name: Suhani Sharma
 role: Tutor
 pronouns: she/her
 email: sus009@ucsd.edu
-photo: ../assets/staff-images/suhani-sharma.jpeg
-description: 1st year, Data Science, Eleanor Roosevelt (ERC)
+photo: ../assets/staff-images/fa23/sharma-suhani.jpg
+description: 2nd year, Data Science, ERC
 hometown: Los Angeles, CA
-askabout: My favorite mystery and fantasy novels, which movie I want to watch next, and my favorite songs for studying!
-foodemoji: 🥘
-food: Taste of the Himalayas, Rigobertos, and Lemongrass
+askabout: Mystery novels, Legend of Zelda, and my Spotify playlists.
+foodemoji: 🍛
+food: Taste of the Himalayas, Spice and Rice Kitchen, Rigobertos Taco Shop
 ---
