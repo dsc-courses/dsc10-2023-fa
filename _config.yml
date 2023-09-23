@@ -54,13 +54,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: '/assets/staff-images/fa23'
   - scope:
       path: ''
       type: staffersnobio
     values:
       layout: staffer_no_bio
-      subpath: '/assets/images/'
+      subpath: '/assets/staff-images/fa23'
   - scope:
       path: ''
       type: modules

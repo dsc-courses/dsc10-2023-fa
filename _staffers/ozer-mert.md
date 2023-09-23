@@ -3,7 +3,7 @@ name: Mert Ozer
 role: Tutor
 pronouns: he/him
 email: mozer@ucsd.edu
-photo: ../assets/staff-images/fa23/ozer-mert.jpg
+photo: assets/staff-images/fa23/ozer-mert.jpg
 description: 2nd year, Data Science, Warren
 hometown: Türkiye
 askabout: Entrepreneurship, finance.
