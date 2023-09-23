@@ -4,7 +4,7 @@ role: Tutor
 pronouns: he/him
 email: blw002@ucsd.edu
 photo: assets/staff-images/fa23/wang-bill.jpg
-description: 2nd year, Data Science, Seventh College
+description: 2nd year, Data Science, Seventh
 hometown: San Jose, CA
 askabout: Piano, Reading/Manga, and Pen Spinning.
 foodemoji: 🍛
