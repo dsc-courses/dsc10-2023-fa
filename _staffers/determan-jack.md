@@ -2,7 +2,7 @@
 name: Jack Determan
 role: Tutor
 pronouns: he/him
-email: 
+email: jodeterman@ucsd.edu
 photo: assets/staff-images/fa23/determan-jack.jpg
 description: 2nd year, Math-Computer Science, ERC
 hometown: North Andover, MA
