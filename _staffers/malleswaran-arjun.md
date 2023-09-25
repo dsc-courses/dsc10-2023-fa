@@ -6,7 +6,7 @@ email: amallesw@ucsd.edu
 photo: assets/staff-images/fa23/malleswaran-arjun.jpg
 description: 4th year, Data Science, Sixth
 hometown: San Ramon, CA
-askabout: Basketball, Volleyball, Rock Climbing, and Hiking.
+askabout: Basketball, volleyball, rock climbing, and hiking
 foodemoji: 🍛
 food: Charminar, RAKIRAKI Ramen
 ---

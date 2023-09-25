@@ -6,7 +6,7 @@ email: jodeterman@ucsd.edu
 photo: assets/staff-images/fa23/determan-jack.jpg
 description: 2nd year, Math-Computer Science, ERC
 hometown: North Andover, MA
-askabout: Professional Certification in Web Development through Harvard, Soccer, Piano, Running, Chess, Ethics/Philosophies in Data Science/Statistics.
-foodemoji: 🍛
+askabout: Professional certification in web development through Harvard, soccer, piano, running, chess, Ethics/Philosophies in Data Science/Statistics
+foodemoji: 🍍
 food: Duke's La Jolla
 ---

@@ -7,6 +7,6 @@ photo: assets/staff-images/fa23/serrao-keenan.jpg
 description: 2nd year, Data Science, Sixth
 hometown: Dallas, TX
 askabout: Formula 1, cars, music, and photography.
-foodemoji: 🍛
-food: Din Tai Fung, El Pescador, Dough Momma Pizzeria
+foodemoji: 🍕
+food: Dough Momma Pizzeria, Din Tai Fung, El Pescador
 ---
