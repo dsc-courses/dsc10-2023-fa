@@ -5,5 +5,5 @@ pronouns:
 email: ralbuyeh@ucsd.edu
 website: https://www.albellcloud.com
 photo: assets/staff-images/fa23/albuyeh-rod.png
-lecture: MWF 8-8:50PM, Mandeville Auditorium B-210
+lecture: MWF 8-8:50AM, Mandeville Auditorium B-210
 ---
