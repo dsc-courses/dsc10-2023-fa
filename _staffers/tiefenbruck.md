@@ -9,6 +9,6 @@ lecture: MWF 10-10:50AM (A); 9-9:50AM (B), Mandeville Auditorium B-210
 description: Lecturer, Halıcıoğlu Data Science Institute
 hometown: Wayne, NJ
 askabout: Math, baking, camping, games, and puzzles
-foodemoji: 🥐
+foodemoji: 🥖
 food: Wayfarer Bread & Pastry, Bronx Pizza, Buona Forchetta, Taco Stand
 ---
