@@ -27,3 +27,8 @@ _Hover over an emoji to see a description._
 {% for staffer in staff %}
 {{ staffer }}
 {% endfor %}
+
+{% assign staff = site.staffers | where: 'role', 'Mascot' %}
+{% for staffer in staff %}
+{{ staffer }}
+{% endfor %}
