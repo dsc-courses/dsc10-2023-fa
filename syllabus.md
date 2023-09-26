@@ -31,7 +31,8 @@ some of the core techniques of data science, and we will practice applying them
 to real datasets from a variety of different disciplines. 
 
 Prerequisites: None. This course is an introduction to data science with no
-prior background assumed beyond high school algebra. If you are not planning on
+prior background assumed beyond high school algebra. Make sure you are well-prepared by taking this pretest. 
+If you are not planning on
 entering the DSC major/minor and have already taken a programming class and a
 statistics class, you may wish to take a more advanced course. If you are a DSC
 major/minor, DSC 10 is absolutely required, as later courses heavily reference
@@ -47,30 +48,33 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ### Lecture
 
-There are two lecture sections, both of which are held in [Center Hall 109](https://goo.gl/maps/rLdEtkS1mKxufYqL6):
-- A(00): MWF 12-12:50PM
-- B(00): MWF 1-1:50PM
+There are four lecture sections:
+- Section A (Janine): MWF 10-10:50AM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
+- Section B (Janine): MWF 9-9:50AM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
+- Section C (Suraj): MWF 1-1:50PM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
+- Section D (Rod): MWF 8-8:50AM in [Peterson Hall 104](https://map.concept3d.com/?id=1005#!m/237174)
 
-Lecture is meant to introduce to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-You can attend either lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
+You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
-**Lectures will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings from the B section directly on the course homepage; you can access these by clicking the 🎥 emoji.
+**Lectures will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings directly on the course homepage; you can access these by clicking the 🎥 emoji.
 
 ### Discussion
 
-There are two discussion sections, both of which are held in [Center Hall 214](https://goo.gl/maps/rLdEtkS1mKxufYqL6):
-- A(50): W 2-2:50PM
-- B(50): W 3-3:50PM
+There are three discussion sections:
+- Section A: Wednesday 3-3:50PM in [Pepper Canyon Hall 109](https://map.concept3d.com/?id=1005#!m/246320)
+- Section B: Wednesday 4-4:50PM in [Pepper Canyon Hall 109](https://map.concept3d.com/?id=1005#!m/246320)
+- Section C: Wednesday 5-5:50PM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
 
+You must attend the discussion section that corresponds to the lecture section you are enrolled in. Students in Section D will be assigned to one of the other sections. On the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
+ 
 {: .warning }
-**In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.**
+**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You can ignore what you see as DI or LA on WebReg and just use the schedule above instead.**
 
-You can attend either discussion section, but if space fills up, priority will be given to students officially enrolled in that section.
+Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam. We will also administer four quizzes throughout the quarter during discussion section, so it is important that you be able to attend in-person at your assigned time.
 
-Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam. **Attendance is optional, but students can earn up to 2 percent extra credit on their overall course grade by attending at least 8 discussion sections (0.25% earned for each discussion, up to a maximum of 2%).**
-
-**Discussions will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings from the B section directly on the course homepage; you can access these by clicking the 🎥 emoji.
+**Discussions will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits of discussion section.
 
 ### Office Hours
 
@@ -79,7 +83,7 @@ will hold several office hours throughout the week. The majority of our office h
 [Calendar](../calendar) tab of the course website for the most up-to-date schedule and instructions.
 
 {: .note }
-**In-person office hours are not held in an office – instead, they're held in a large open space where you can come to work on assignments, meet your classmates, and get help from course staff.**
+**We use the term "office hours" but really, office hours are held in a common room where you can come to work on assignments, meet your classmates, and get help from course staff. We don't bite and we would love to see you in office hours!**
 
 Office hours are your chance to ask for general help, clarification on
 assignments, and to review previous assignments. Our tutors have previously
@@ -113,7 +117,7 @@ Your primary motivation when interacting with course staff should be
 
 First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
-has a Laptop Loaner program which may be helpful, but you should also contact
+has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/lyft-program/index.html) which may be helpful, but you should also contact
 us if you have any concerns about access to technology. You will not need a
 webcam for this course. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend discussion section.
 
@@ -122,12 +126,11 @@ additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/AFKvU7).
+  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/2j8EjH).
 
 - **Gradescope:** You'll submit all assignments and exams to
   [Gradescope](https://www.gradescope.com/courses/526132). This is where all of
-  your grades will live as well. If you didn't already get an invitation to our
-  Gradescope course, reach out to the instructor on Ed.
+  your grades will live as well. If you didn’t already get an invitation to our Gradescope course, reach out to the instructional staff on Ed.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
@@ -144,7 +147,7 @@ an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-
 
 ### Welcome Survey
 
-Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform) at the start of the quarter. This is required of all students.
+Please fill out this short [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) at the start of the quarter. This is required of all students.
 
 ---
 
@@ -195,7 +198,8 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will _usually_ be due on **Saturdays at 11:59PM**, though this may change in any given week. We will
+deadline**. Lab assignments will _usually_ be due on **Thursdays at 11:59PM**, 
+though you should refer to the homepage of this website for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
 
@@ -213,7 +217,7 @@ hands-on experience working with data.
 An important difference between labs and homeworks lies in the way autograder
 tests are run. Unlike the tests in the labs, the tests in the homework cannot
 be used to guarantee that you have the correct answers. The tests in the
-homework only check to make sure that your answer is reasonable, not that it is
+homework only check to make sure that your answer is appropriately formatted, not that it is
 correct. For example, if a homework question asks you to calculate a percent,
 the test in the homework might check that the answer you provide is a number
 between 0 and 100. **You should make sure that all the tests pass before
@@ -229,8 +233,8 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will _usually_ be due on **Tuesdays at
-11:59PM**, though this may change in any given week. We will release homework assignments roughly a week before they're
+notebook to Gradescope. Homeworks will _usually_ be due on **Saturdays at
+11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. We will release homework assignments roughly a week before they're
 due. **Each homework is equally weighted at 5% of your overall grade, with no drops.**
 
 Like labs, homeworks must be completed and submitted individually, but we
@@ -346,23 +350,23 @@ It is your responsibility to ensure that all assignments are submitted correctly
 
 This class has one Midterm Exam and one Final Exam:
 
-- Midterm Exam: Friday, May 5th, **during your registered lecture slot**
-- Final Exam: Saturday, June 10th, 7-10PM, location TBD
+- Midterm Exam: Monday, October 30, **during your registered lecture slot**
+- Final Exam: Saturday, December 9, 7-10PM, location TBD
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ---
 
 ## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
-schedule (which is subject to change in any given week):
+schedule. Note that there are significant changes to this schedule towards the end of the quarter due to holidays. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| Nothing! 😎 | Lecture| | Lecture and Discussion | | Lecture | |
-| | | <b style="color:red">Homework due</b> | | | | <b style="color:red">Lab due</b> |
+| Nothing! 😎 | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
+| | | | | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> |
 
 ---
 
@@ -372,16 +376,16 @@ The table below shows how your mastery of class material will be assessed and
 how grades will be computed:
 
 | **Component** | **Weight** | **Notes** |
-| Lab Assignments | 15% | drop lowest score |
-| Homework Assignments | 30% | 5% each |
+| Lab Assignments | 10% | drop lowest score |
+| Homework Assignments | 25% | 5% each, drop lowest score |
+| Quizzes | 15% | 5% each, drop lowest score |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
-| Final Project | 17.5% | |
-| Final Exam | 17.5% | |
-| Attendance | 2% (extra credit) | 0.25% per discussion, max 8 |
+| Final Project | 15% | |
+| Final Exam | 15% | |
 
-Note that each lab and each homework assignment will be worth the same amount,
-regardless of the number of points it is graded out of. 
+Note that all assignments in each category will be worth the same amount,
+regardless of the number of points they are graded out of. 
 
 ### Regrade Requests
 
@@ -536,7 +540,7 @@ respected and feels comfortable.
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
-Instructors are not able to enroll students in classes.
+Sorry, but instructors are not able to enroll students in classes.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
