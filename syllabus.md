@@ -382,7 +382,7 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Note that there are significant changes to this schedule towards the end of the quarter due to holidays. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| Nothing! 😎 | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
+| | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
 | | | | | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> |
 
 ---
