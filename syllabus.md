@@ -373,6 +373,7 @@ There are four quizzes throughout the quarter, administered in discussion sectio
 - Quiz 4: Wednesday, November 29
 
 You must attend **your assigned discussion section**; see the [Discussion](#-discussion) section of the syllabus for details. **Your lowest quiz score is dropped from your grade calculation at the end of the quarter.**
+
 ---
 
 ## 📆 Weekly Schedule
