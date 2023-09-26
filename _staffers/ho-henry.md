@@ -1,5 +1,5 @@
 ---
-name: Henry Ho
+name: Chia-Chan Ho
 role: Tutor
 pronouns: he/him
 email: chh061@ucsd.edu
