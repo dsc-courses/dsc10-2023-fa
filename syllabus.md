@@ -235,7 +235,8 @@ hidden correctness tests that determine your score.
 To submit a homework, follow the instructions in the assignment to upload your
 notebook to Gradescope. Homeworks will _usually_ be due on **Saturdays at
 11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. We will release homework assignments roughly a week before they're
-due. **Each homework is equally weighted at 5% of your overall grade, with no drops.**
+due. **Your lowest homework score
+is dropped from your grade calculation at the end of the quarter.**
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
@@ -346,10 +347,13 @@ It is your responsibility to ensure that all assignments are submitted correctly
 
 ---
 
-## 📝 Exams
+## 📝 Assessments
+
+We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [Practice Problems](https://practice.dsc10.com/) to help you prepare. You'll see some of these problems in discussion section and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
+
+### Exams
 
 This class has one Midterm Exam and one Final Exam:
-
 - Midterm Exam: Monday, October 30, **during your registered lecture slot**
 - Final Exam: Saturday, December 9, 7-10PM, location TBD
 
@@ -357,6 +361,17 @@ Exams are cumulative, though the Final Exam will emphasize material after the Mi
 
 If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
+### Quizzes
+
+There are four quizzes throughout the quarter, administered in discussion section:
+- Quiz 1: Wednesday, October 11
+- Quiz 2: Wednesday, October 25
+- Quiz 3: Wednesday, November 15
+- Quiz 4: Wednesday, November 29
+
+You must attend **your assigned discussion section**; see the [Discussion](#-discussion) section of the syllabus for details.
+
+**Your lowest quiz score is dropped from your grade calculation at the end of the quarter.**
 ---
 
 ## 📆 Weekly Schedule
@@ -381,8 +396,8 @@ how grades will be computed:
 | Quizzes | 15% | 5% each, drop lowest score |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
-| Final Project | 15% | |
-| Final Exam | 15% | |
+| Final Project | 10% | |
+| Final Exam | 20% | |
 
 Note that all assignments in each category will be worth the same amount,
 regardless of the number of points they are graded out of. 
