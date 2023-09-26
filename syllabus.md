@@ -366,6 +366,7 @@ If you have a conflict with either exam, you should let us know right away via t
 ### Quizzes
 
 There are four quizzes throughout the quarter, administered in discussion section:
+
 - Quiz 1: Wednesday, October 11
 - Quiz 2: Wednesday, October 25
 - Quiz 3: Wednesday, November 15
