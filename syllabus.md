@@ -6,9 +6,6 @@ description: >-
 nav_order: 2
 ---
 
-{: .warning } 
-**This site is for the Spring 2023 offering of DSC 10. The content and syllabus for the Fall 2023 offering of DSC 10 will be different from what you see here, but feel free to look around to see how a past version of this course was run. Check back on Thursday, September 27 for an up-to-date version for Fall 2023.**
-
 # 📖 Syllabus
 {:.no_toc}
 
@@ -31,7 +28,8 @@ some of the core techniques of data science, and we will practice applying them
 to real datasets from a variety of different disciplines. 
 
 Prerequisites: None. This course is an introduction to data science with no
-prior background assumed beyond high school algebra. Make sure you are well-prepared by taking this pretest. 
+prior background assumed beyond high school algebra. Make sure you are well-prepared by taking [this pretest](https://practice.dsc10.com/pretest/). 
+
 If you are not planning on
 entering the DSC major/minor and have already taken a programming class and a
 statistics class, you may wish to take a more advanced course. If you are a DSC
@@ -129,7 +127,7 @@ additional platforms that you'll need to access:
   section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/2j8EjH).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/526132). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/633671). This is where all of
   your grades will live as well. If you didn’t already get an invitation to our Gradescope course, reach out to the instructional staff on Ed.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -148,6 +146,10 @@ an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-
 ### Welcome Survey
 
 Please fill out this short [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) at the start of the quarter. This is required of all students.
+
+### Pretest
+
+DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). You will not submit this pretest, and it will not be graded, but it will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills.
 
 ---
 
@@ -404,7 +406,7 @@ regardless of the number of points they are graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfkCOBIuX7MD9yoDUp9enJU_vDGP5sPnhT-ZJj7MkrH8B4h8Q/viewform). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/ZsLgWyDBnMP8tHsN9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 

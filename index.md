@@ -5,9 +5,6 @@ nav_exclude: false
 nav_order: 1
 ---
 
-<!-- {: .warning } 
-**This site is for the Spring 2023 offering of DSC 10. The content and syllabus for the Fall 2023 offering of DSC 10 will be different from what you see here, but feel free to look around to see how a past version of this course was run. Check back on Thursday, September 27 for an up-to-date version for Fall 2023.** -->
-
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
