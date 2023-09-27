@@ -28,7 +28,7 @@ some of the core techniques of data science, and we will practice applying them
 to real datasets from a variety of different disciplines. 
 
 Prerequisites: None. This course is an introduction to data science with no
-prior background assumed beyond high school algebra. Make sure you are well-prepared by taking [this pretest](https://practice.dsc10.com/pretest/). 
+prior background assumed beyond high school algebra. Make sure you are well-prepared by taking [this pretest](https://practice.dsc10.com/pretest/).
 
 If you are not planning on
 entering the DSC major/minor and have already taken a programming class and a
@@ -148,7 +148,7 @@ Please fill out this short [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9)
 
 ### Pretest
 
-DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). You will not submit this pretest, and it will not be graded, but it will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills.
+DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). You will not submit this pretest, and it will not be graded, but it will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills. We'll release solutions to the pretest on Monday of Week 1.
 
 ---
 
