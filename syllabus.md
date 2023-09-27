@@ -54,9 +54,11 @@ There are four lecture sections:
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
+You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
 
-**Lectures will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings directly on the course homepage; you can access these by clicking the 🎥 emoji.
+**Lectures will be podcasted (UCSD's term for "recorded").** Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
+
+<!-- We will also link recordings directly on the course homepage; you can access these by clicking the 🎥 emoji. -->
 
 ### Discussion
 
@@ -68,16 +70,16 @@ There are three discussion sections:
 You must attend the discussion section that corresponds to the lecture section you are enrolled in. Students in Section D will be assigned to one of the other sections. On the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
  
 {: .warning }
-**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You can ignore what you see as DI or LA on WebReg and just use the schedule above instead.**
+**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.**
 
-Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam. We will also administer four quizzes throughout the quarter during discussion section, so it is important that you be able to attend in-person at your assigned time.
+Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with course staff. Attending discussion section and working through practice problems in discussion gives you direct experience with the types of questions you will see on the exams. We will also administer four quizzes throughout the quarter during discussion section, so it is important that you be able to attend in-person at your assigned time.
 
 **Discussions will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits of discussion section.
 
 ### Office Hours
 
 In order to provide you with help on assignments and concepts, the course staff
-will hold several office hours throughout the week. The majority of our office hours are held in-person, though a few are held remotely – **if you’re able to, you’re strongly encouraged to attend in-person**. See the
+will hold several office hours throughout the week, all of which will be held in-person. See the
 [Calendar](../calendar) tab of the course website for the most up-to-date schedule and instructions.
 
 {: .note }
@@ -116,8 +118,7 @@ Your primary motivation when interacting with course staff should be
 First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
 has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/lyft-program/index.html) which may be helpful, but you should also contact
-us if you have any concerns about access to technology. You will not need a
-webcam for this course. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend discussion section.
+us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend discussion section.
 
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
@@ -136,9 +137,7 @@ additional platforms that you'll need to access:
   will show you how to use it in class.
 
 Make sure you can access all three sites ASAP. It's a good idea to bookmark
-them, too (though they're all linked at the top of this website). You'll also
-need a **Zoom** account to access remote office hours. You should already have
-an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help.
+them, too (though they're all linked at the top of this website).
 
 {: .warning }
 **Note that we will not be using Canvas this quarter. Please do not contact the staff through Canvas – we won't be able to read it!**
@@ -271,7 +270,8 @@ be considered on time. You may turn them in as many times as you like before
 the deadline, and only the most recent submission will be graded, so it's a
 good habit to submit early and often.
 
-**When submitting any assignment on Gradescope, make sure to stick around until you 
+{: .warning }
+**When submitting any assignment to Gradescope, make sure to stick around until you 
 see a confirmation that all tests have passed. If the Gradescope autograder 
 cannot grade your work or you see a message saying "Your submission timed out," 
 this indicates an error with your code, and it is your responsibility to identify 
@@ -372,14 +372,14 @@ There are four quizzes throughout the quarter, administered in discussion sectio
 - Quiz 3: Wednesday, November 15
 - Quiz 4: Wednesday, November 29
 
-You must attend **your assigned discussion section**; see the [Discussion](#-discussion) section of the syllabus for details. **Your lowest quiz score is dropped from your grade calculation at the end of the quarter.**
+You must attend **your assigned discussion section**; see the [Discussion](#discussion) section of the syllabus for details. **Your lowest quiz score is dropped from your grade calculation at the end of the quarter.**
 
 ---
 
 ## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
-schedule. Note that there are significant changes to this schedule towards the end of the quarter due to holidays. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
+schedule. **Note that there are significant changes to this schedule towards the end of the quarter due to holidays.** Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
 | | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
@@ -402,7 +402,7 @@ how grades will be computed:
 | Final Exam | 20% | |
 
 Note that all assignments in each category will be worth the same amount,
-regardless of the number of points they are graded out of. 
+regardless of the number of points they are graded out of.
 
 ### Regrade Requests
 
