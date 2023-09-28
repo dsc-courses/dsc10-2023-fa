@@ -8,8 +8,6 @@
           "**LEC 18**{: .label .label-lecture } Central Limit Theorem":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
 
-          "**HW 4**{: .label .label-hw } Simulation, Sampling, and Boostrapping":
-
       - date: 2023-11-15
         events:
           "**LEC 17**{: .label .label-lecture } Central Limit Theorem, Sample Size":
@@ -18,6 +16,7 @@
           "**DIS 7**{: .label .label-disc } Sampling and Bootstrapping":   
           
           "**QUIZ 3**{: .label .label-quiz } **In Discussion, Covers Lectures 11-12 and 14-15**":   
+
       - date: 2023-11-17
         events:
           "**LEC 20**{: .label .label-disc } Models":

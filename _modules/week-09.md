@@ -13,7 +13,7 @@
       - date: 2023-11-29
         events:
           "**LEC 24**{: .label .label-lecture } Correlation":
-            "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
+            "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
 
           "**DIS 9**{: .label .label-disc } Hypothesis Testing": 
           

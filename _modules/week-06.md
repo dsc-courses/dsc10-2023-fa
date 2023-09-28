@@ -14,10 +14,16 @@
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)"
 
           "**DIS 6**{: .label .label-disc } Bootstrapping and Confidence Intervals":    
+
       - date: 2023-11-9
         events:
           "**Lab 4**{: .label .label-lab } Simulation, Sampling, Bootstrapping":
+
       - date: 2023-11-10
         events:
           "**No Class (Veteran's Day)**":
+
+     - date: 2023-10-28
+        events:
+          "**HW 4**{: .label .label-hw } Simulation, Sampling, Bootstrapping":
 ---
