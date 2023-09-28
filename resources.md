@@ -17,7 +17,7 @@ nav_order: 4
 
 ## Supplemental Resources
 
-### <b><span style="color:#eaa302">NEW</span></b>: Diagrams
+### Diagrams
 
 We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a new [**Diagrams**](../diagrams) page. Check it out!
 
@@ -32,7 +32,6 @@ These resources will directly complement the content from lectures and assignmen
 - [`babypandas` notes](https://notes.dsc10.com)
 - [`babypandas` Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
 - [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
-- [New tutor-created videos and guides](https://edstem.org/us/courses/38383/discussion/3183737)
 
 ### Python Extra Practice
 
@@ -53,9 +52,9 @@ These are some additional resources to complement our lecture and assignments on
 
 ### Permutation Testing Visualization
 
-This article and visualization intuitively decribes permutation testing, which we cover in Lecture 16. It's very helpful for thinking about permutation testing.
+This article and visualization intuitively decribes permutation testing. It's very helpful for thinking about how permutation testing works and why it is useful.
 
-- [Permutation testing visualization (Lecture 16)](https://www.jwilber.me/permutationtest/)
+- [Permutation testing visualization](https://www.jwilber.me/permutationtest/)
 
 ### Instructional Videos
 
@@ -68,12 +67,12 @@ These are some videos we made to address common questions of DSC 10 students. De
 
 These are some videos we made to supplement a previous iteration of the course. They cover information that we'll also cover this quarter.
 
-- [Lottery Problem Walkthrough (Lecture 3)](https://www.youtube.com/watch?v=w_witptT6Ts)
-- [Introduction to DataFrames (Lecture 4)](https://youtu.be/t_bjtBJ0gGc)
-- [Grouping (Lecture 5)](https://youtu.be/xg7rnjWnZ48)
-- [Bar Charts and `.str.contains` (Lecture 6)](https://youtu.be/OVTroiHby3g)
+- [Lottery Problem Walkthrough](https://www.youtube.com/watch?v=w_witptT6Ts)
+- [Introduction to DataFrames](https://youtu.be/t_bjtBJ0gGc)
+- [Grouping](https://youtu.be/xg7rnjWnZ48)
+- [Bar Charts and `.str.contains`](https://youtu.be/OVTroiHby3g)
     - [`.str.contains` only](https://www.youtube.com/watch?v=TCcEhVA6Euw&list=PLDNbnocpJUhbczUw2Rw6bqreEECMvZ8gN&index=1)
-- [Line Plots and Sorting (Lecture 6)](https://www.youtube.com/watch?v=glzZ04D1kDg)
+- [Line Plots and Sorting](https://www.youtube.com/watch?v=glzZ04D1kDg)
 
 ### Review Videos
 
