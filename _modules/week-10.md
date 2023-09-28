@@ -7,6 +7,11 @@
         events: 
           "**LEC 26**{: .label .label-lecture } Residuals & Inference":
             "[CIT 15.5-15.6](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
+
+      - date: 2023-12-5
+        events:
+          "**Project**{: .label .label-proj } Final Project Due":
+
       - date: 2023-12-6
         events:
           "**LEC 27**{: .label .label-lecture } Review":

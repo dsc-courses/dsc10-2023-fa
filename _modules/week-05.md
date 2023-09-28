@@ -18,4 +18,8 @@
         events:
           "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentile":
             "[CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+      
+      - date: 2023-11-4
+        events:
+          "**Project**{: .label .label-proj } Midterm Project Due":
 ---
