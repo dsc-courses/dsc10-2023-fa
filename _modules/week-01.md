@@ -11,7 +11,7 @@
           "**LEC 3**{: .label .label-lecture } Strings, Lists, Arrays":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
 
-          "**DIS 1**{: .label .label-disc } Association and Casaulity":
+          "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks and Python":
 
       - date: 2023-10-5
         events:
