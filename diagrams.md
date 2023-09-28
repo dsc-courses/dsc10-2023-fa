@@ -17,7 +17,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 1. TOC
 {:toc}
 
-### Nested Evaluation (Lecture 3)
+### Nested Evaluation
 
 <center>
 
@@ -31,7 +31,7 @@ The interactive diagrams below are taken from lecture. Click on a diagram to "ac
 
 <hr>
 
-### Grouping (Lectures 5 and 6)
+### Grouping
 
 <center>
 
@@ -47,7 +47,7 @@ style="clip-path: inset(1.5px 2.5px 2.5px 5px);"
 
 <hr>
 
-### Binning and Histograms (Lecture 7)
+### Binning and Histograms
 
 <center>
 
@@ -61,7 +61,7 @@ style="clip-path: inset(3.5px 5.5px 10px 5px);">
 
 <hr>
 
-### Defining Functions (Lecture 8)
+### Defining Functions
 
 <center>
 
@@ -77,7 +77,7 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <hr>
 
-### Merging (Lecture 9)
+### Merging
 
 <center>
 
@@ -91,35 +91,7 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <hr>
 
-### Permutation Testing – Shuffling (Lecture 17)
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3IfZAbqXtscEPu-nTl6lWZcXh6AWfjKsXZpWDNc0UhueXsOYQ7ivShlwbn-PW1EZm7CunTLtq7rmt/embed?start=false&loop=false&delayms=60000&rm=minimal&slide=id.g17c0d9176ba_0_133" frameborder="0" width="640" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1P96Q5nnDn_K85XWx_fqiaV75cBVm0On8OZTamHgsLSw/">source</a>)
-
-</center>
-
-<hr>
-
-### Permutation Testing – Summary (Lectures 17 and 18)
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSovXDonR6EmjrT45h4pY1mwmcKFMWVSdgpbKHC5HNTm9sbG7dojvvCDEQCjuk2dk1oA4gmwMogr8ZL/embed?start=false&loop=false&delayms=3000&rm=minimal&" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
-
-<br>
-
-(<a href="https://docs.google.com/presentation/d/1TTWoQ7FU4tzBGc7EskF6WYccIn1BWQbTSizAiFc2p2o/edit?usp=sharing">source</a>)
-
-</center>
-
-<hr>
-
-### Bootstrapping (Lectures 18 and 19)
+### Bootstrapping
 
 <center>
 
@@ -133,7 +105,7 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <hr>
 
-### Confidence Intervals (Lecture 20)
+### Confidence Intervals
 
 <center>
 
@@ -147,7 +119,7 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <hr>
 
-### The Central Limit Theorem (Lectures 22 and 23)
+### The Central Limit Theorem
 
 <center>
 
@@ -160,3 +132,29 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 </center>
 
 <hr>
+
+### Permutation Testing – Shuffling
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3IfZAbqXtscEPu-nTl6lWZcXh6AWfjKsXZpWDNc0UhueXsOYQ7ivShlwbn-PW1EZm7CunTLtq7rmt/embed?start=false&loop=false&delayms=60000&rm=minimal&slide=id.g17c0d9176ba_0_133" frameborder="0" width="640" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1P96Q5nnDn_K85XWx_fqiaV75cBVm0On8OZTamHgsLSw/">source</a>)
+
+</center>
+
+<hr>
+
+### Permutation Testing – Summary
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSovXDonR6EmjrT45h4pY1mwmcKFMWVSdgpbKHC5HNTm9sbG7dojvvCDEQCjuk2dk1oA4gmwMogr8ZL/embed?start=false&loop=false&delayms=3000&rm=minimal&" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1TTWoQ7FU4tzBGc7EskF6WYccIn1BWQbTSizAiFc2p2o/edit?usp=sharing">source</a>)
+
+</center>
