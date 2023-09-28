@@ -12,7 +12,7 @@
           "**LEC 12**{: .label .label-lecture } Simulation":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)"
 
-          "**DIS 4**{: .label .label-disc } Control Flow and Probability":    
+          "**DIS 4**{: .label .label-disc } Grouping, Merging, and Control Flow":    
 
           "**QUIZ 2**{: .label .label-quiz } In Discussion, Covers Lectures 5-10":    
 

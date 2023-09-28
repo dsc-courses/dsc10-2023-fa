@@ -1,7 +1,7 @@
 ---
-    title: Week 6 – Confidence Intervals and the Normal Distribution 
+    title: Week 6 – Confidence Intervals and the Normal Distribution
     weekNumber: 6
- 
+    
     days:
       - date: 2023-11-6
         events: 
