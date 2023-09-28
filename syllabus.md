@@ -431,7 +431,7 @@ can figure out a plan.
 
 ---
 
-## 🤝 Collaboration Policy and Academic Integrity
+## 🤝 Academic Integrity Policies
 
 The basic rule for DSC 10 is: Work hard. Make use of the expertise of the staff
 to learn what you need to know to really do well in the course. Act with
@@ -466,25 +466,22 @@ integrity. Ignorance of the rules will not excuse you from any violations.
 
 In DSC 10, you can read books, surf the web, talk to your friends and the DSC
 10 staff to get help understanding the concepts you need to know to complete
-your assignments. However, all code must be written by you (or, in the instance
-of projects, together with your partner).
+your assignments. However, no other person should complete your work for you or write
+any of the code you submit in this course, with the exception of the work you do with a project partner.
 
 The following activities are considered cheating and are not allowed in DSC 10
 (not an exhaustive list):
 
-- Using or submitting code acquired from other individuals (except in the instance
-  of projects, your partner), artificial intelligence tools such at ChatGPT or GitHub CoPilot, 
-  the internet, or any other resource
-  not officially sanctioned by this course.
+- Using or submitting code acquired from other individuals.
 - Posting your code online, including on Ed, unless privately to
   instructors only.
-- Having any other person or artificial intelligence tool complete any part of your assignment on your behalf.
+- Having any other person complete any part of your assignment on your behalf.
 - Completing an assignment on behalf of someone else.
 - Providing code, exam questions, or solutions to any other student in the
   course.
 - Splitting up project questions with your project partner and each
   working on different questions.
-- Collaborating with others on exams.
+- Collaborating with others on quizzes or exams.
 
 The following activities are examples of appropriate collaboration and are
 allowed in DSC 10 (not an exhaustive list):
@@ -492,17 +489,13 @@ allowed in DSC 10 (not an exhaustive list):
 - Discussing the general approach to solving homework problems or projects.
 - Talking about problem-solving strategies or issues you ran into and how you
   solved them.
-- Discussing the answers to exams with other students who have already taken
-  the exam after the exam is complete.
-- Using code provided in class or in any assigned readings or videos, with
-  attribution.
+- Discussing the answers to quizzes or exams once all students in all sections of the course have taken the assessment.
+- Using code provided in class or in any assigned readings or videos.
 - Google searching for documentation on Python or babypandas.
 - Working together with other students on assignments without copying or
   sharing answers.
 - Posting a question about your approach to a problem on Ed, without
   sharing your code.
-
-### How can I be sure that my actions are NOT considered cheating?
 
 The best way to avoid problems is by using your best judgment and remembering
 to act with Honesty, Trust, Fairness, Respect, Responsibility, and Courage.
@@ -515,6 +508,49 @@ Here are some suggestions for completing your work:
   share code with other students.
 - If you are talking to another student about an assignment, don't take notes,
   and wait an hour afterward before you write any code.
+
+### Use of Generative Artificial Intelligence
+
+Generative Artificial Intelligence (GenAI) describes tools, such as [ChatGPT](https://chat.openai.com) and GitHub Copilot, that are trained to generate responses to user-defined prompts, or questions. The existence of such tools is a major milestone in machine learning, and an impressive application of data science in the real world. 
+
+Our course policy on the use of GenAI tools for coursework is simple: you may use these tools to build an understanding of course material and to assist you on assignments, keeping in mind that no tool is a substitute for a strong understanding of course concepts. 
+
+Because of how GenAI tools are trained, they are designed to provide answers that _sound_ correct, not necessarily ones that _are_ correct. A goal of your education is to develop an ability to identify and produce information that actually is correct and doesn’t just sound correct. Human supervision of GenAI tools is always necessary. 
+
+Be mindful of how you are using GenAI tools. These tools can be very useful to help you preview material before lecture, summarize material after lecture, explain concepts you didn’t understand, and explore how different concepts are related. “Explain it like I’m five” can be a helpful prompt to give you a basic understanding of new concepts before being exposed to them in lecture. Consolidating your knowledge after learning something new and relating it to other things you know is important for learning and retention. Unfortunately, GenAI tools are not a consistently reliable source of quality information.
+
+For example, we asked ChatGPT to tell us about the Central Limit Theorem, an idea we will learn about towards the end of the quarter. The answer we get back is actually quite <b><span style="color:green">good</span></b>.
+
+<center>
+
+<img src="../assets/images/chatgpt-clt.png" width="75%">
+<br>
+Good answer, ChatGPT!
+
+</center>
+
+However, we also asked ChatGPT to tell us about permutation testing, another idea from the second half of the quarter. The answer we got back was <b><span style="color:red">wrong</span></b> in very subtle ways, though it might sound correct to someone learning about permutation testing for the first time. Thinking about why ChatGPT’s answer is wrong is a useful learning exercise.
+
+<center>
+
+<img src="../assets/images/chatgpt-perm.png" width="75%">
+<br>
+Not quite...
+
+</center>
+
+As this example illustrates, be skeptical about anything you learn from GenAI tools, as it may be incorrect or misleading.
+
+Proceed with caution when using tools to assist you with your assignments. DSC 10 is a foundational class for your study of data science; you need to master the skills and concepts of this course if you want to use data science effectively. Through quizzes and exams, you will be tested on your independent ability to apply course material to novel problems. Homeworks, labs, and projects are meant to prepare you for these assessments, so overreliance on GenAI for assignments will rob you of opportunities to learn and make it hard for you to perform well on assessments.
+
+If you do use GenAI to assist you on assignments, keep these guidelines in mind:
+
+- Design your prompts carefully. Don’t just ask one question, ask a follow-up question based on the output to the first. To use these tools effectively, you need to engineer your prompts carefully. Here are some tips for crafting prompts.
+- Test the outputs. GenAI tools can and do make mistakes, and being able to verify the correctness of a proposed answer is an important skill for you to develop. Validate the output against course-provided references, or follow up with a search on Google or Stack Overflow.   Remember that GenAI tools provide crowdsourced likely answers, not necessarily correct answers.
+- Don’t submit any code that you don’t understand, or that uses content not taught in this class. In this introductory course, we expose you to a limited set of Python tools that you can use to solve a wide range of problems. When you prompt a GenAI tool with a question from DSC 10, it will not be limited to our restricted toolkit, and may provide answers using much more complicated code.  If you answer questions with out-of-scope content, you are not practicing the foundational skills that the course is meant to teach you. In addition, your code may not pass correctness tests that require your solution to use methods taught in the course.
+
+
+If your assignment submission includes any content generated by an AI tool, it should be cited to acknowledge the source of the material. At the end of each assignment, you will be provided with a space to explain and reflect on your use of GenAI tool(s). 
 
 ---
 
