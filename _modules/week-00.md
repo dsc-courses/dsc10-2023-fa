@@ -6,5 +6,9 @@
         events:
           "**LEC 1**{: .label .label-lecture } Introduction":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html)"
-          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
+
+          "**SURVEY**{: .label .label-survey } [Welcome Survey - Fill out by Monday](https://docs.google.com/forms/d/1jqXmpDI2YByocQ5W1gcSk1o3hNff-Qi-sIMTuq_tN1U/edit)":
+            
+          
+
 ---
