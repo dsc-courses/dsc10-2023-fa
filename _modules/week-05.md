@@ -1,11 +1,12 @@
 ---
-    title: Week 5 – Midterm Exam 🧪
+    title: Week 5 – Midterm Exam 
     weekNumber: 5
 
     days:
       - date: 2023-10-30
         events: 
-          "***Midterm Exam***":
+          "**EXAM**{: .label .label-exam } **Midterm Exam** - In lecture":
+
       - date: 2023-11-1
         events:
           "**LEC 14**{: .label .label-lecture } Distribution and Sampling":
