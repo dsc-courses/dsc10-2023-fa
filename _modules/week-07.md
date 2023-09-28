@@ -10,7 +10,7 @@
 
       - date: 2023-11-15
         events:
-          "**LEC 17**{: .label .label-lecture } Central Limit Theorem, Sample Size":
+          "**LEC 19**{: .label .label-lecture } Central Limit Theorem, Sample Size":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
 
           "**DIS 7**{: .label .label-disc } Sampling and Bootstrapping":   
@@ -19,7 +19,7 @@
 
       - date: 2023-11-17
         events:
-          "**LEC 20**{: .label .label-disc } Models":
+          "**LEC 20**{: .label .label-lecture } Models":
             "[CIT 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)"
 
       - date: 2023-11-18

@@ -7,7 +7,7 @@
           "**LEC 1**{: .label .label-lecture } Introduction":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html)"
 
-          "**SUR**{: .label .label-survey } [**Welcome Survey**](https://docs.google.com/forms/d/1jqXmpDI2YByocQ5W1gcSk1o3hNff-Qi-sIMTuq_tN1U/edit)":
+          "**SUR**{: .label .label-survey } [Welcome Survey](https://docs.google.com/forms/d/1jqXmpDI2YByocQ5W1gcSk1o3hNff-Qi-sIMTuq_tN1U/edit)":
             
           
 
