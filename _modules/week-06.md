@@ -23,7 +23,7 @@
         events:
           "No Lecture (Veterans Day 🎖️)":
 
-     - date: 2023-10-28
+      - date: 2023-10-28
         events:
           "**HW 4**{: .label .label-hw } Simulation, Sampling, Bootstrapping":
 ---
