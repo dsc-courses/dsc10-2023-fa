@@ -15,7 +15,9 @@
           "**LEC 24**{: .label .label-lecture } Correlation":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
 
-          "**DIS 9**{: .label .label-disc } Quiz 4: Central Limit Theorem":    
+          "**DIS 9**{: .label .label-disc } Central Limit Theorem": 
+          
+          "**QUIZ 4**{: .label .label-quiz } Central Limit Theorem":  
       - date: 2023-12-1
         events:
           "**LEC 25**{: .label .label-lecture } Regression, Least Squares":

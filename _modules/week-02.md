@@ -12,6 +12,9 @@
             "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
           "**DIS 2**{: .label .label-disc } Quiz 1: Python Basics, Arrays, and DataFrames":    
+
+          "**QUIZ 1**{: .label .label-quiz } Python Basics, Arrays, and DataFrames":
+
       - date: 2023-10-12
         events:
           "**Lab 2**{: .label .label-lab } **Arrays and DataFrames**":
