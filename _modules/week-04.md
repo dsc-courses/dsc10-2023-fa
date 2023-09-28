@@ -12,9 +12,9 @@
           "**LEC 12**{: .label .label-lecture } Simulation":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)"
 
-          "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":    
+          "**DIS 4**{: .label .label-disc } Control Flow and Probability":    
 
-          "**QUIZ 2**{: .label .label-quiz } **Functions, Subgroups, Merge, and Control Flow (in Discussion)**":    
+          "**QUIZ 2**{: .label .label-quiz } **In Discussion, Covers Lectures 5-10**":    
 
       - date: 2023-10-26
         events:

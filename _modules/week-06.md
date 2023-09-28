@@ -1,22 +1,22 @@
 ---
-    title: Week 6 – Normal Distribution and Confidence Intervals 
+    title: Week 6 – Confidence Intervals and the Normal Distribution 
     weekNumber: 6
  
     days:
       - date: 2023-11-6
         events: 
           "**LEC 16**{: .label .label-lecture } Confidence Intervals":
-            "[CIT 13.1, 13.3](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
+            "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)"
 
       - date: 2023-11-8
         events:
-          "**LEC 18**{: .label .label-lecture } Spread, Normal Distribution":
-            "[CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
+          "**LEC 17**{: .label .label-lecture } Variability and the Normal Distribution":
+            "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)"
 
-          "**DIS 6**{: .label .label-disc } Midterm Solutions and Hypothesis Testing":    
+          "**DIS 6**{: .label .label-disc } Bootstrapping and Confidence Intervals":    
       - date: 2023-11-9
         events:
-          "**Lab 4**{: .label .label-lab } DataFrames, Control Flow, Probability":
+          "**Lab 4**{: .label .label-lab } Simulation, Sampling, Bootstrapping":
       - date: 2023-11-10
         events:
           "**No Class (Veteran's Day)**":

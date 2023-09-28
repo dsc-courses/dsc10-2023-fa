@@ -1,5 +1,5 @@
 ---
-    title: Week 3 – Visualization and More DataFrames
+    title: Week 3 – Functions and Control Flow
     weekNumber: 3
     days:
       - date: 2023-10-16
@@ -11,7 +11,7 @@
           "**LEC 9**{: .label .label-lecture } Grouping on Multiple Columns, Merging":
             "[BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
 
-          "**DIS 3**{: .label .label-disc } Querying, Grouping, Plotting":    
+          "**DIS 3**{: .label .label-disc } Data Visualizations and Functions":    
       - date: 2023-10-19
         events:
           "**Lab 2**{: .label .label-lab } **Data Visualizations and Functions**":

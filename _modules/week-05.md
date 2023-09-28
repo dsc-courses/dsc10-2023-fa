@@ -16,8 +16,8 @@
           "**DIS 5**{: .label .label-disc } Probability and Simulation":    
       - date: 2023-11-3
         events:
-          "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentile":
-            "[CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+          "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentiles":
+            "[CIT 13.1-13.2](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
       
       - date: 2023-11-4
         events:

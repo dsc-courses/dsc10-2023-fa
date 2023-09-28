@@ -1,5 +1,5 @@
 ---
-    title: Week 2 – DataFrames
+    title: Week 2 – DataFrames and Visualization
     weekNumber: 2
     days:
       - date: 2023-10-9
@@ -13,7 +13,7 @@
 
           "**DIS 2**{: .label .label-disc } Arrays and DataFrames":    
 
-          "**QUIZ 1**{: .label .label-quiz } **Python Basics, Arrays, and DataFrames (in Discussion)**":
+          "**QUIZ 1**{: .label .label-quiz } **In Discussion, Covers Lectures 1-4**":
 
       - date: 2023-10-12
         events:

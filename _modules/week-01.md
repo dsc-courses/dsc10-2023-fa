@@ -1,5 +1,5 @@
 ---
-    title: Week 1 – Data Types and DataFrames
+    title: Week 1 – Python Basics
     weekNumber: 1
     days:
       - date: 2023-10-2
@@ -9,7 +9,7 @@
       - date: 2023-10-4
         events:
           "**LEC 3**{: .label .label-lecture } Strings, Lists, Arrays":
-            "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
+            "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html), [CIT 14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#)"
 
           "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks and Python":
 
