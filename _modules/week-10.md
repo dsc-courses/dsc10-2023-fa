@@ -10,7 +10,7 @@
 
       - date: 2023-12-5
         events:
-          "**PROJ**{: .label .label-proj } Final Project Due":
+          "**PROJ**{: .label .label-proj } **Final Project** (see [partner guidelines](project-partners))":
 
       - date: 2023-12-6
         events:
@@ -27,6 +27,7 @@
       - date: 2023-12-9
         events:
           "**EXAM**{: .label .label-exam } **Final Exam (7-10PM, location TBD)**":
+          "**SUR**{: .label .label-survey } **End-of-Quarter Survey and Evaluations (due 8AM)**":
 ---
 
 
