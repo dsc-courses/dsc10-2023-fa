@@ -20,7 +20,7 @@
       - date: 2023-11-17
         events:
           "**LEC 20**{: .label .label-disc } Models":
-	    "[CIT 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)"
+            "[CIT 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)"
 
       - date: 2023-11-18
         events:
