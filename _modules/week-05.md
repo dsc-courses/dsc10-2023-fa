@@ -5,7 +5,7 @@
     days:
       - date: 2023-10-30
         events: 
-          "**EXAM**{: .label .label-exam } **Midterm Exam** (in class)":
+          "**EXAM**{: .label .label-exam } **Midterm Exam (in registered lecture section)**":
 
       - date: 2023-11-1
         events:

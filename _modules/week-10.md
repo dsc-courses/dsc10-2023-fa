@@ -26,7 +26,7 @@
 
       - date: 2023-12-9
         events:
-          "**EXAM**{: .label .label-exam } **Final Exam** (7-10PM), Location TBD":
+          "**EXAM**{: .label .label-exam } **Final Exam (7-10PM, location TBD)**":
 ---
 
 

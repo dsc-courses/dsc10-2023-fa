@@ -19,5 +19,5 @@
           "**Lab 4**{: .label .label-lab } DataFrames, Control Flow, Probability":
       - date: 2023-11-10
         events:
-          "**Holiday**":
+          "**No Class (Veteran's Day)**":
 ---

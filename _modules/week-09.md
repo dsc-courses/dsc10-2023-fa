@@ -17,7 +17,7 @@
 
           "**DIS 9**{: .label .label-disc } Central Limit Theorem": 
           
-          "**QUIZ 4**{: .label .label-quiz } Central Limit Theorem":  
+          "**QUIZ 4**{: .label .label-quiz } **Central Limit Theorem (in discussion)**":
 
       - date: 2023-11-30
         events:

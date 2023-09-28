@@ -14,7 +14,7 @@
 
           "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":    
 
-          "**QUIZ 2**{: .label .label-quiz } Functions, Subgroups, Merge, and Control Flow":    
+          "**QUIZ 2**{: .label .label-quiz } **Functions, Subgroups, Merge, and Control Flow (in discussion)**":    
 
       - date: 2023-10-26
         events:
@@ -22,7 +22,7 @@
 
       - date: 2023-10-27
         events:
-          "**LEC 13**{: .label .label-lecture } Review":
+          "**LEC 13**{: .label .label-lecture } Midterm Review":
 
       - date: 2023-10-28
         events:

@@ -11,9 +11,9 @@
           "**LEC 6**{: .label .label-lecture } Data Visualization":
             "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
-          "**DIS 2**{: .label .label-disc } Quiz 1: Python Basics, Arrays, and DataFrames":    
+          "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":    
 
-          "**QUIZ 1**{: .label .label-quiz } Python Basics, Arrays, and DataFrames":
+          "**QUIZ 1**{: .label .label-quiz } **Python Basics, Arrays, and DataFrames (in discussion)**":
 
       - date: 2023-10-12
         events:

@@ -18,5 +18,5 @@
           "**DIS 8**{: .label .label-disc } Normal Distribution":    
       - date: 2023-11-24
         events:
-          "**Holiday**":
+          "**No Class (Thanksgiving)**":
 ---

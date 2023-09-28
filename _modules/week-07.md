@@ -15,9 +15,9 @@
           "**LEC 18**{: .label .label-lecture } CLT, Sample Size":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
 
-          "**DIS 7**{: .label .label-disc } Confidence Intervals & Normal Distribution":   
+          "**DIS 7**{: .label .label-disc } Confidence Intervals and the Normal Distribution":   
           
-          "**QUIZ 3**{: .label .label-quiz } Confidence Intervals & Normal Distribution":   
+          "**QUIZ 3**{: .label .label-quiz } **Confidence Intervals and the Normal Distribution (in discussion)**":   
       - date: 2023-11-17
         events:
           "**LEC 20**{: .label .label-disc } Models":
