@@ -50,7 +50,7 @@ While you might see the correct answer displayed as the result of the cell, chan
 
 There are two solutions:
 
-1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2023-sp), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
+1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2023-fa), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
 
 2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
 
@@ -115,7 +115,7 @@ This is usually what's called a "merge conflict", which means that DataHub wasn'
 
     <center><img src="../assets/images/terminal.png" width="30%"></center>
 
-3. In the terminal, type `cd dsc10-2023-sp`, then hit the enter key to run it. The command will not display anything.
+3. In the terminal, type `cd dsc10-2023-fa`, then hit the enter key to run it. The command will not display anything.
 
 4. Still in the terminal, type `git stash`, at which point your terminal window should look like the one below. Then, hit enter to run the command. You should see some output.
 
@@ -137,4 +137,4 @@ Sometimes DataHub does have availability issues. Usually it is back up and runni
 
 ### What if I don't have access to DataHub and I still want to access DSC 10 materials?
 
-We welcome the general public to use our materials. If you're not enrolled in the class, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2023-sp).
+We welcome the general public to use our materials. If you're not enrolled in the class, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2023-fa).
