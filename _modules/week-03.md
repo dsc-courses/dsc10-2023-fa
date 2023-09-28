@@ -18,7 +18,7 @@
       - date: 2023-10-20
         events:
           "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":
-            "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
+            "[CIT 9.0-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
 
       - date: 2023-10-21
         events:
