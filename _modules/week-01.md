@@ -12,10 +12,10 @@
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
 
           "**DIS 1**{: .label .label-disc } Association and Casaulity":
-      
+
       - date: 2023-10-5
         events:
-          "**Lab 1**{: .label .label-disc } **Expressions and Data Types**":
+          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
                 
       - date: 2023-10-6
         events:

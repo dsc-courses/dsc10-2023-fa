@@ -17,7 +17,7 @@
 
       - date: 2023-10-12
         events:
-          "**Lab 2**{: .label .label-lab } **Arrays and DataFrames**":
+          "**Lab 1**{: .label .label-lab } **Arrays and DataFrames**":
       - date: 2023-10-13
         events:
           "**LEC 7**{: .label .label-lecture } Distributions, Histograms":
