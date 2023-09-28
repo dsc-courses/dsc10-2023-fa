@@ -14,11 +14,11 @@
 
           "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":    
 
-          "**QUIZ 2**{: .label .label-quiz } **Functions, Subgroups, Merge, and Control Flow (in discussion)**":    
+          "**QUIZ 2**{: .label .label-quiz } **Functions, Subgroups, Merge, and Control Flow (in Discussion)**":    
 
       - date: 2023-10-26
         events:
-          "**Lab 3**{: .label .label-lab } Groupby and Querying":
+          "**Lab 3**{: .label .label-lab } DataFrames, Control Flow, and Probability":
 
       - date: 2023-10-27
         events:
@@ -26,5 +26,5 @@
 
       - date: 2023-10-28
         events:
-          "**HW 3**{: .label .label-hw } HW 3 Due":
+          "**HW 3**{: .label .label-hw } DataFrames, Control Flow, and Probability":
 ---
