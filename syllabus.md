@@ -452,7 +452,7 @@ someone else, plagiarizing, etc., these students are misrepresenting their
 academic abilities. This makes it impossible for instructors to give grades
 (and for the University to give degrees) that reflect student knowledge. This
 devalues the worth of a UCSD degree for all students, making it imperative for
-the the campus as a whole to enforce that all members of this community are
+the campus as a whole to enforce that all members of this community are
 honest and ethical. We want your degree to be meaningful and we want you to be
 proud to call yourself a graduate of UCSD!
 
@@ -472,7 +472,7 @@ of projects, together with your partner).
 The following activities are considered cheating and are not allowed in DSC 10
 (not an exhaustive list):
 
-- Using or submitting code acquired from other indivduals (except in the instance
+- Using or submitting code acquired from other individuals (except in the instance
   of projects, your partner), artificial intelligence tools such at ChatGPT or GitHub CoPilot, 
   the internet, or any other resource
   not officially sanctioned by this course.
@@ -504,7 +504,7 @@ allowed in DSC 10 (not an exhaustive list):
 
 ### How can I be sure that my actions are NOT considered cheating?
 
-The best way to avoid problems is by using your best judgement and remembering
+The best way to avoid problems is by using your best judgment and remembering
 to act with Honesty, Trust, Fairness, Respect, Responsibility, and Courage.
 Here are some suggestions for completing your work:
 
