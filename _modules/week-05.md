@@ -21,5 +21,5 @@
       
       - date: 2023-11-4
         events:
-          "**Project**{: .label .label-proj } Midterm Project Due":
+          "**PROJ**{: .label .label-proj } Midterm Project Due":
 ---

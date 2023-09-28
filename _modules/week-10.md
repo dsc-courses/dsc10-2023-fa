@@ -10,7 +10,7 @@
 
       - date: 2023-12-5
         events:
-          "**Project**{: .label .label-proj } Final Project Due":
+          "**PROJ**{: .label .label-proj } Final Project Due":
 
       - date: 2023-12-6
         events:
