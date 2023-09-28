@@ -14,7 +14,7 @@
           "**DIS 3**{: .label .label-disc } Data Visualizations and Functions":    
       - date: 2023-10-19
         events:
-          "**Lab 2**{: .label .label-lab } **Data Visualizations and Functions**":
+          "**Lab 2**{: .label .label-lab } Data Visualizations and Functions":
       - date: 2023-10-20
         events:
           "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":

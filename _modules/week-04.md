@@ -14,7 +14,7 @@
 
           "**DIS 4**{: .label .label-disc } Control Flow and Probability":    
 
-          "**QUIZ 2**{: .label .label-quiz } **In Discussion, Covers Lectures 5-10**":    
+          "**QUIZ 2**{: .label .label-quiz } In Discussion, Covers Lectures 5-10":    
 
       - date: 2023-10-26
         events:

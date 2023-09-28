@@ -13,11 +13,11 @@
 
           "**DIS 2**{: .label .label-disc } Arrays and DataFrames":    
 
-          "**QUIZ 1**{: .label .label-quiz } **In Discussion, Covers Lectures 1-4**":
+          "**QUIZ 1**{: .label .label-quiz } In Discussion, Covers Lectures 1-4":
 
       - date: 2023-10-12
         events:
-          "**Lab 1**{: .label .label-lab } **Arrays and DataFrames**":
+          "**Lab 1**{: .label .label-lab } Arrays and DataFrames":
       - date: 2023-10-13
         events:
           "**LEC 7**{: .label .label-lecture } Distributions and Histograms":

@@ -15,7 +15,7 @@
 
       - date: 2023-10-5
         events:
-          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
+          "**Lab 0**{: .label .label-lab } Expressions and Data Types":
                 
       - date: 2023-10-6
         events:

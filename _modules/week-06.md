@@ -21,7 +21,7 @@
 
       - date: 2023-11-10
         events:
-          "**No Class (Veteran's Day)**":
+          "No Lecture (Veterans Day 🎖️)":
 
      - date: 2023-10-28
         events:

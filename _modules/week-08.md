@@ -18,5 +18,5 @@
           "**DIS 8**{: .label .label-disc } Central Limit Theorem and Hypothesis Testing":    
       - date: 2023-11-24
         events:
-          "**No Class (Thanksgiving)**":
+          "No Lecture (Thanksgiving 🦃)":
 ---
