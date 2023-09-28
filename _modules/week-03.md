@@ -8,7 +8,7 @@
             "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
       - date: 2023-10-18
         events:
-          "**LEC 9**{: .label .label-lecture } Advanced Group, Merge":
+          "**LEC 9**{: .label .label-lecture } Grouping on Multiple Columns, Merging":
             "[BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
 
           "**DIS 3**{: .label .label-disc } Querying, Grouping, Plotting":    
@@ -22,5 +22,5 @@
 
       - date: 2023-10-21
         events:
-          "**HW 2**{: .label .label-hw } HW 2 Due":
+          "**HW 2**{: .label .label-hw } DataFrames, Data Visualization, and Functions":
 ---
