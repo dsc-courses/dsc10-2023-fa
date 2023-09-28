@@ -18,6 +18,10 @@
           "**DIS 9**{: .label .label-disc } Central Limit Theorem": 
           
           "**QUIZ 4**{: .label .label-quiz } Central Limit Theorem":  
+
+      - date: 2023-11-30
+        events:
+          "**HW 6**{: .label .label-hw } HW 6 Due":
       - date: 2023-12-1
         events:
           "**LEC 25**{: .label .label-lecture } Regression, Least Squares":

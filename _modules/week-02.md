@@ -23,4 +23,7 @@
           "**LEC 7**{: .label .label-lecture } Distributions, Histograms":
             "[CIT 7.2, 7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
             
+      - date: 2023-10-14
+        events:
+          "**HW 1**{: .label .label-hw } HW 1 Due":
 ---

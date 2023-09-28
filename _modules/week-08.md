@@ -9,7 +9,7 @@
             "[CIT 11.2-11.4](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2023-11-21
         events:
-          "**HW 5**{: .label .label-hw } ":
+          "**HW 5**{: .label .label-hw } HW 5 Due ":
       - date: 2023-11-22
         events:
           "**LEC 22**{: .label .label-lecture } TVD, Permutation Testing":

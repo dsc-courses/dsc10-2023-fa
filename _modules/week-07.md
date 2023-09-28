@@ -7,6 +7,9 @@
         events: 
           "**LEC 16**{: .label .label-lecture } Central Limit Theorem":
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
+
+          "**HW 4**{: .label .label-hw } HW 4 Due":
+
       - date: 2023-11-15
         events:
           "**LEC 18**{: .label .label-lecture } CLT, Sample Size":

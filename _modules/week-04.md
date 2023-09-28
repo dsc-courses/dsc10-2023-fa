@@ -18,4 +18,8 @@
       - date: 2023-10-27
         events:
           "**LEC 13**{: .label .label-lecture } Review":
+
+      - date: 2023-10-28
+        events:
+          "**HW 3**{: .label .label-hw } HW 3 Due":
 ---
