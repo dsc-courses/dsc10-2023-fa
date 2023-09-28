@@ -6,7 +6,7 @@
       - date: 2023-12-4
         events: 
           "**LEC 26**{: .label .label-lecture } Residuals & Inference":
-            "[CIT 15.5, 16.1-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
+            "[CIT 15.5-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
 
       - date: 2023-12-5
         events:
@@ -26,8 +26,8 @@
 
       - date: 2023-12-9
         events:
-          "**EXAM**{: .label .label-exam } **Final Exam (7-10PM, location TBD)**":
-          "**SUR**{: .label .label-survey } **End-of-Quarter Survey and Evaluations (due 8AM)**":
+          "**EXAM**{: .label .label-exam } **Final Exam** (7-10PM, location TBD)":
+          "**SUR**{: .label .label-survey } End-of-Quarter Survey and Evaluations (due 8AM)":
 ---
 
 
