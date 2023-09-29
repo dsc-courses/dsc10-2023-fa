@@ -11,7 +11,7 @@ nav_order: 1
 {: .fs-6 .fw-300 }
 
 {: .success }
-> Welcome to DSC 10! 👋 Make sure to:
+> Welcome to DSC 10! 👋 To get started:
 > - Read the entire [**Syllabus**](syllabus) and complete the actions in the [**Getting Started**](syllabus#-getting-started) section.
 > - Complete the [**pretest**](https://practice.dsc10.com/pretest) this weekend. We'll release solutions on Monday.
 > - Stop by the Meet the Professors mixer on Friday from 11:30AM-12:30PM in the patio of the [**HDSI Building**](https://map.concept3d.com/?id=1005#!m/246301) – there'll be free pizza! 🍕

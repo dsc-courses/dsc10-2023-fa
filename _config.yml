@@ -17,8 +17,8 @@ title: DSC 10
 description: DSC 10, Fall 2023 at UC San Diego
 tagline: Principles of Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://dsc-courses.github.io/dsc10-2023-fa' # the base hostname & protocol for your site, e.g. http://example.com
-author: Weiyue Li
+url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
+author: DSC 10 Instructors and Course Staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
