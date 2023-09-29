@@ -9,6 +9,6 @@ lecture: MWF 1-1:50PM (C), <a href="https://map.concept3d.com/?id=1005#!m/237200
 description: MS, Electrical Engineering and Computer Sciences, UC Berkeley
 hometown: Windsor, Ontario, Canada
 askabout: Credit card points and <a href="https://my.flightradar24.com/surajrampure">traveling</a>, my dog back home,  the Lakers, future DSC courses, my academic journey, and <a href="https://rampure.org/assets/me_dancing.gif">this</a>
-foodemoji: 🍜
+foodemoji: 🥘
 food: Menya Ultra, Tacos El Gordo, DJK, Charminar, Koon Thai, Bangkok Bay, SomiSomi
 ---
