@@ -19,7 +19,7 @@ nav_order: 4
 
 ### Diagrams
 
-We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a new [**Diagrams**](../diagrams) page. Check it out!
+We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a separate [**Diagrams**](../diagrams) page. Check it out!
 
 <center><img src="../assets/images/animation-gif.gif" width=700></center>
 
