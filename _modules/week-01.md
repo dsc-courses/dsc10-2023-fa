@@ -12,14 +12,13 @@
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html), [CIT 14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#)"
 
           "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks and Python":
-
-      - date: 2023-10-5
-        events:
-          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
                 
       - date: 2023-10-6
         events:
           "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
-                
+
+      - date: 2023-10-7
+        events:
+          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":               
 ---
