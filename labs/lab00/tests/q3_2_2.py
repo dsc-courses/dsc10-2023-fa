@@ -5,7 +5,7 @@ test = {   'name': 'q3_2_2',
                                                'True',
                                        'hidden': False,
                                        'locked': False},
-                                   {   'code': '>>> seconds_in_a_decade != 315532800 # 315532800 is wrong, but close. Make sure to account for leap seconds! See: '
+                                   {   'code': '>>> seconds_in_a_decade != 315532800 # 315532800 is wrong, but close. Make sure to account for leap seconds, which are different than leap years! See: '
                                                'https://en.wikipedia.org/wiki/Leap_second\n'
                                                'True',
                                        'hidden': False,
