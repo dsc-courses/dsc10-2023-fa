@@ -20,5 +20,5 @@
 
       - date: 2023-10-7
         events:
-          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":               
+          "**Lab 0**{: .label .label-lab } **[Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab00/lab00.ipynb)**":               
 ---
