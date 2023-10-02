@@ -13,7 +13,7 @@ nav_order: 1
 {: .success }
 > Welcome to DSC 10! 👋 To get started:
 > - Read the entire [**Syllabus**](syllabus) and complete the actions in the [**Getting Started**](syllabus#-getting-started) section.
-> - Complete the [**pretest**](https://practice.dsc10.com/pretest) this weekend. We'll release solutions on Monday.
+> - Complete the [**pretest**](https://practice.dsc10.com/pretest). Solutions have now been released.
 
 {{ site.staffersnobio }}
 
