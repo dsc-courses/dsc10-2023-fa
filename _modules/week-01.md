@@ -8,9 +8,8 @@
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
       - date: 2023-10-4
         events:
-          "**LEC 3**{: .label .label-lecture } Strings, Lists, Arrays":
+          "**LEC 3**{: .label .label-lecture } [Strings, Lists, and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec03/lec03.ipynb) [✏️](resources/lectures/lec03/lec03.html)":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html), [CIT 14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#)"
-
           "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks and Python":
                 
       - date: 2023-10-6
