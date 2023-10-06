@@ -1,0 +1,19 @@
+I just compiled the states DataFrame by copy-pasting from certain websites into a Google sheet, then saving it as a CSV. 
+
+The Google sheet is here: https://docs.google.com/spreadsheets/d/1ox_kKThZVoB2CjMs6Ea21hRsF0hZRKX7olOzlM-6FRU/edit?usp=sharing
+
+The information comes from:
+
+- State, Capital City, Population, Land Area - https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States#States
+
+Population is from 2020 census so does not need to be updated yearly, but we can check if the Wikipedia article starts using a different population value, like a more current estimate. Use square miles column for land area. I had to use Find+Replace to remove commas from the numbers.
+
+
+- Region: https://github.com/cphalpert/census-regions/blob/master/us%20census%20bureau%20regions%20and%20divisions.csv
+
+This will likely never need to be updated.
+
+- Party Affiliation: https://www.cookpolitical.com/cook-pvi/2022-partisan-voting-index/state-map-and-list
+Also available here: https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index#By_state
+
+Party Affiliation is determined by taking the first letter of Cook Partisan Voting Index and mapping R to Republican, D to Democratic. I did this in Google Sheets using the SPLIT and SUBSTITUTE functions, or you could do it easily in Python. This measure of Party Affiliation is binary and doesn't consider the strength of the affiliation (which Cook PVI does). It's possible for the Cook PVI to come out "Even" but that didn't happen this year. We have to figure out what to do if that happens in the future though. This should be updated annually.
