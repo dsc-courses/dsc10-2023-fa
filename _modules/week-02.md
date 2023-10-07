@@ -25,5 +25,5 @@
             
       - date: 2023-10-14
         events:
-          "**HW 1**{: .label .label-hw } Basic Python, Arrays, and DataFrames":
+          "**HW 1**{: .label .label-hw } [**Basic Python, Arrays, and DataFrames**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworks/hw01/hw01.ipynb)":
 ---
