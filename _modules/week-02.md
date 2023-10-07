@@ -17,7 +17,7 @@
 
       - date: 2023-10-12
         events:
-          "**Lab 1**{: .label .label-lab } Arrays and DataFrames":
+          "**Lab 1**{: .label .label-lab } **[Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab01/lab01.ipynb)**": 
       - date: 2023-10-13
         events:
           "**LEC 7**{: .label .label-lecture } Distributions and Histograms":
