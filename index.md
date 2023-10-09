@@ -15,7 +15,7 @@ nav_order: 1
 
 <!-- Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis. -->
 
-[Jump to the current week](#week-1-python-basics){: .btn }
+[Jump to the current week](#week-2-dataframes-and-visualization){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
