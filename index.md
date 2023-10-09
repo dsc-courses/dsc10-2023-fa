@@ -10,10 +10,6 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .success }
-> Welcome to DSC 10! 👋 To get started:
-> - Read the entire [**Syllabus**](syllabus) and complete the actions in the [**Getting Started**](syllabus#-getting-started) section.
-> - Complete the [**pretest**](https://practice.dsc10.com/pretest). Solutions have now been released.
 
 {{ site.staffersnobio }}
 
