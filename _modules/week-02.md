@@ -4,7 +4,7 @@
     days:
       - date: 2023-10-9
         events: 
-          "**LEC 5**{: .label .label-lecture } Querying and Grouping":
+          "**LEC 5**{: .label .label-lecture } [Querying and Grouping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec05/lec05.ipynb) [✏️](resources/lectures/lec05/lec05.html)":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
       - date: 2023-10-11
         events:
