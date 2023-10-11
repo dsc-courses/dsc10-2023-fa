@@ -54,7 +54,7 @@ There are two solutions:
 
 2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
 
-### I accdidentally added something to the `grader.check` cell in a notebook and I can't delete it – how do I fix it?
+### I accidentally added something to the `grader.check` cell in a notebook and I can't delete it – how do I fix it?
 
 One option is to follow option 2 above, where you rename your assignment folder to something else and click the DataHub link on the course website once again. But, that solution requires you to manually copy and paste your code from your old notebook to your new notebook. There's another more direct solution – watch this [🎥 video](https://youtu.be/Xxm3QN4w6fA) to see how to do it.
 
