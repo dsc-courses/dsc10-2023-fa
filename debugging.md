@@ -54,6 +54,19 @@ There are two solutions:
 
 2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
 
+### I accdidentally added something to the `grader.check` cell in a notebook and I can't delete it – how do I fix it?
+
+One option is to follow option 2 above, where you rename your assignment folder to something else and click the DataHub link on the course website once again. But, that solution requires you to manually copy and paste your code from your old notebook to your new notebook. There's another more direct solution – watch this [🎥 video](https://youtu.be/Xxm3QN4w6fA) to see how to do it.
+
+### When I upload my assignment notebook to Gradescope, it says "Otter encountered an error while grading this submission: No gradeable files found in submission"
+
+The most common way this happens is if you (unknowingly) download your notebook as a `.json` file rather than a `.ipynb` file. This often happens by default when working on an iPad. One solution, which is also discussed starting at 20:05 in this [🎥 video](https://www.youtube.com/watch?v=Hq8VaNirDRQ&t=1205s), is to download your notebook as follows:
+
+1. Make sure you've restarted your kernel and run all cells in your notebook. Save your notebook.
+1. Click the "JupyterHub" button in the top left corner of the page.
+1. In the file explorer that appears, click `dsc10-2023-fa`, then navigate to the folder that contains the file you're trying to download. If you're working on Homework 3, for instance, you'll click `homeworks` and then `hw03`.
+1. Click the square checkbox to the left of your assignment notebook (e.g. `hw03.ipynb`). Click "Shutdown" at the top. Then, click the checkbox again and click "Download". This should download your notebook as a `.ipynb` file.
+
 ## Specific Errors
 
 A general rule of thumb when debugging is to look at the very last line of an error message. That's usually the most informative part of the message, and will often tell you directly what's wrong.
