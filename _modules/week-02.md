@@ -8,7 +8,7 @@
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
       - date: 2023-10-11
         events:
-          "**LEC 6**{: .label .label-lecture } Data Visualization":
+          "**LEC 6**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html)":
             "[CIT 7.0-7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
           "**DIS 2**{: .label .label-disc } Arrays and DataFrames":    
