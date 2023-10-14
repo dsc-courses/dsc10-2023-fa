@@ -1,0 +1,11 @@
+test = {   'name': 'q1_7',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> top_communication_apps_by_content_rating.shape[0] == 3\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> top_communication_apps_by_content_rating.shape[1] == 1\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> top_communication_apps_by_content_rating.columns[0] == 'Top_Comm_Apps'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> top_communication_apps_by_content_rating.get('Top_Comm_Apps').sum() == 268\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> top_communication_apps_by_content_rating.get('Top_Comm_Apps').iloc[0] == 238\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

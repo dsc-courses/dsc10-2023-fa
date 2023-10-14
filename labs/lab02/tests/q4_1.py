@@ -1,0 +1,10 @@
+test = {   'name': 'q4_1',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> len(some_functions) == 3\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> callable(some_functions[0])\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> callable(some_functions[1])\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> callable(some_functions[2])\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

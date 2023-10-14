@@ -1,0 +1,11 @@
+test = {   'name': 'q4_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> 'Revenue_Dollars' in fortune_500.columns\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> fortune_500.shape == (500, 11)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> t = fortune_500.sort_values('Revenue_Dollars', ascending=False)\n>>> t.get('Revenue_Dollars').values[0] == 611290000000.0\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
