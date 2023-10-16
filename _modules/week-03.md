@@ -4,7 +4,7 @@
     days:
       - date: 2023-10-16
         events: 
-          "**LEC 8**{: .label .label-lecture } Functions and Apply":
+          "**LEC 8**{: .label .label-lecture } [Functions and Applying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html)":
             "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
       - date: 2023-10-18
         events:
