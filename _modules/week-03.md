@@ -22,5 +22,5 @@
 
       - date: 2023-10-21
         events:
-          "**HW 2**{: .label .label-hw } DataFrames, Data Visualization, and Functions":
+          "**HW 2**{: .label .label-hw } [**DataFrames, Data Visualization, and Functions**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworks/hw02/hw02.ipynb)":
 ---
