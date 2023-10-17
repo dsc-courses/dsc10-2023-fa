@@ -11,7 +11,7 @@
           "**LEC 6**{: .label .label-lecture } [Grouping and Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html)":
             "[CIT 7.0-7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
-          "**DIS 2**{: .label .label-disc } Arrays and DataFrames":    
+          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](https://practice.dsc10.com/disc02/index.html)":    
 
           "**QUIZ 1**{: .label .label-quiz } In Discussion, Covers Lectures 1-4":
 
