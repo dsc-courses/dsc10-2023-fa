@@ -11,7 +11,7 @@
           "**LEC 9**{: .label .label-lecture } [Grouping on Multiple Columns, Merging](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
             "[BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
 
-          "**DIS 3**{: .label .label-disc } Data Visualizations and Functions":    
+          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)":    
       - date: 2023-10-19
         events:
           "**Lab 2**{: .label .label-lab } **[Data Visualizations and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab02/lab02.ipynb)**":
