@@ -17,7 +17,7 @@
           "**Lab 2**{: .label .label-lab } **[Data Visualizations and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab02/lab02.ipynb)**":
       - date: 2023-10-20
         events:
-          "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":
+          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html)":
             "[CIT 9.0-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
 
       - date: 2023-10-21
