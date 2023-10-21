@@ -1,0 +1,10 @@
+test = {   'name': 'q2_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> medium_price == 3.99\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> coffee_price('Small') == 2.99\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> coffee_price('Large') == 4.79\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> coffee_price('Extra Large') == 4.99\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
