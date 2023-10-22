@@ -26,5 +26,5 @@
 
       - date: 2023-10-28
         events:
-          "**HW 3**{: .label .label-hw } DataFrames, Control Flow, and Probability":
----
+          "**HW 3**{: .label .label-hw } [**DataFrames, Control Flow, and Probability**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworks/hw03/hw03.ipynb)":
+---       
