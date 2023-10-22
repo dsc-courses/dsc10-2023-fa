@@ -1,0 +1,12 @@
+test = {   'name': 'q2_2',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': '>>> import numbers\n>>> isinstance(staff_favorite_not_top_1000, numbers.Integral) and isinstance(top_1000_not_staff_favorite, numbers.Integral)\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> top_1000_not_staff_favorite - staff_favorite_not_top_1000 > 50 # There is a large disparity in the two values!\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
