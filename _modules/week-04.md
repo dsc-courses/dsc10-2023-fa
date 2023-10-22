@@ -5,7 +5,7 @@
     days:
       - date: 2023-10-23
         events: 
-          "**LEC 11**{: .label .label-lecture } Probability":
+          "**LEC 11**{: .label .label-lecture } [Probability](../resources/lectures/lec11/lec11-blank.pdf)":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
       - date: 2023-10-25
         events:
