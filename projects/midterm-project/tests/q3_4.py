@@ -1,0 +1,11 @@
+test = {   'name': 'q3_4',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(cruel_fine_lines, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.all([not line.islower() for line in cruel_fine_lines])\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> # There's at least one duplicate, and your array should include duplicates!\n>>> len(cruel_fine_lines) != len(np.unique(cruel_fine_lines))\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

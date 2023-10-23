@@ -1,0 +1,11 @@
+test = {   'name': 'q4_6',
+    'points': 1,
+    'suites': [   {   'cases': [   {   'code': '>>> isinstance(idf_array, np.ndarray) and len(idf_array) == counts_df.shape[0] # There should be one IDF for every word in counts_df.\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': '>>> np.all(idf_array < 3) # If you solve this problem correctly, all IDFs will be less than 3.\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.isclose(idf_array[0], 2.89037176)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
