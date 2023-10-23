@@ -21,5 +21,5 @@
       
       - date: 2023-11-4
         events:
-          "**PROJ**{: .label .label-proj } **Midterm Project** (see [partner guidelines](project-partners))":
+          "**PROJ**{: .label .label-proj } **[Midterm Project: Taylor Swift](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
 ---
