@@ -9,7 +9,7 @@
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
       - date: 2023-10-25
         events:
-          "**LEC 12**{: .label .label-lecture } [Simulations](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec12/lec12.ipynb) [✏️](resources/lectures/lec12/lec12.html)":
+          "**LEC 12**{: .label .label-lecture } Simulations":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)"
 
           "**DIS 4**{: .label .label-disc } [DataFrames, Control Flow, and Probability](https://practice.dsc10.com/disc04/index.html)":
