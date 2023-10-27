@@ -22,7 +22,7 @@
 
       - date: 2023-10-27
         events:
-          "**LEC 13**{: .label .label-lecture } Midterm Review":
+          "**LEC 13**{: .label .label-lecture } [Midterm Review](../resources/lectures/lec13/lec13-blank.pdf)":
 
       - date: 2023-10-28
         events:
