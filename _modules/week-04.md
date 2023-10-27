@@ -14,7 +14,7 @@
 
           "**DIS 4**{: .label .label-disc } [DataFrames, Control Flow, and Probability](https://practice.dsc10.com/disc04/index.html)":
 
-          "**QUIZ 2**{: .label .label-quiz } In Discussion, Covers Lectures 5-10":    
+          "**QUIZ 2**{: .label .label-quiz }  [Solutions](resources/quizzes/quiz2.pdf)":    
 
       - date: 2023-10-26
         events:

@@ -13,7 +13,7 @@
 
           "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](https://practice.dsc10.com/disc02/index.html)":    
 
-          "**QUIZ 1**{: .label .label-quiz } In Discussion, Covers Lectures 1-4":
+          "**QUIZ 1**{: .label .label-quiz } [Solutions](resources/quizzes/quiz1.pdf)":
 
       - date: 2023-10-12
         events:
