@@ -17,7 +17,6 @@ nav_order: 1
 
 {: .success }
 > - **The Midterm Exam is this Monday during lecture. See [this post on Ed](https://edstem.org/us/courses/48101/discussion/3734836) for lots of details, including what is covered, what to bring, and how to study.**
-> - Friday's lecture will be review of problems 4-8 from the [Spring 2023 Midterm](https://practice.dsc10.com/sp23-midterm). Read the data info sheet and work through the problems before lecture.
 > - Over the weekend, practice by working through old exams at [practice.dsc10.com](https://practice.dsc10.com). The solutions to Quiz 1 and Quiz 2 can be found linked below.
 
 [Jump to the current week](#week-4-probability-and-simulation){: .btn }
