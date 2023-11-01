@@ -9,11 +9,11 @@
 
       - date: 2023-11-1
         events:
-          "**LEC 14**{: .label .label-lecture } Distribution and Sampling":
+          "**LEC 14**{: .label .label-lecture } Distributions and Sampling":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
 
 
-          "**DIS 5**{: .label .label-disc } Probability and Simulation":    
+          "**DIS 5**{: .label .label-disc } [Midterm Exam Walkthrough](../resources/exams/fa23-midterm-sol.pdf)":    
       - date: 2023-11-3
         events:
           "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentiles":
