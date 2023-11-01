@@ -9,7 +9,7 @@
 
       - date: 2023-11-1
         events:
-          "**LEC 14**{: .label .label-lecture } Distributions and Sampling":
+          "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
 
 
