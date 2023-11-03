@@ -17,7 +17,7 @@
 
       - date: 2023-11-9
         events:
-          "**Lab 4**{: .label .label-lab } Simulation, Sampling, Bootstrapping":
+          "**Lab 4**{: .label .label-lab } [**Simulation, Sampling, & Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab04/lab04.ipynb)":
 
       - date: 2023-11-10
         events:
