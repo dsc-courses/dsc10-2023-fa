@@ -16,7 +16,7 @@
           "**DIS 5**{: .label .label-disc } [Midterm Exam Walkthrough](../resources/exams/fa23-midterm-sol.pdf)":    
       - date: 2023-11-3
         events:
-          "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentiles":
+          "**LEC 15**{: .label .label-lecture } [Bootstrapping and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)"
 
 ---
