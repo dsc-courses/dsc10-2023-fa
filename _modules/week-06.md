@@ -7,6 +7,7 @@
         events: 
           "**LEC 16**{: .label .label-lecture } Confidence Intervals":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)"
+          "**PROJ**{: .label .label-proj } **[Midterm Project: Taylor Swift](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
 
       - date: 2023-11-8
         events:
@@ -26,4 +27,5 @@
       - date: 2023-11-11
         events:
           "**HW 4**{: .label .label-hw } Simulation, Sampling, Bootstrapping":
+          "**SUR**{: .label .label-survey } [**Mid-Quarter Survey**](https://docs.google.com/forms/d/e/1FAIpQLSenMue3wGwX7OVIE0RMJ4OFzMtg0YG3T2PqXikcB7594ij5kg/viewform)":
 ---

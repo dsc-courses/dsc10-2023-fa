@@ -9,17 +9,14 @@
 
       - date: 2023-11-1
         events:
-          "**LEC 14**{: .label .label-lecture } Distribution and Sampling":
+          "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
 
 
-          "**DIS 5**{: .label .label-disc } Probability and Simulation":    
+          "**DIS 5**{: .label .label-disc } [Midterm Exam Walkthrough](../resources/exams/fa23-midterm-sol.pdf)":    
       - date: 2023-11-3
         events:
           "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentiles":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)"
-      
-      - date: 2023-11-4
-        events:
-          "**PROJ**{: .label .label-proj } **Midterm Project** (see [partner guidelines](project-partners))":
+
 ---
