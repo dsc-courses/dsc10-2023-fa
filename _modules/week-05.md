@@ -18,8 +18,5 @@
         events:
           "**LEC 15**{: .label .label-lecture } Bootstrapping and Percentiles":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)"
-      
-      - date: 2023-11-4
-        events:
-          "**PROJ**{: .label .label-proj } **[Midterm Project: Taylor Swift](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
+
 ---
