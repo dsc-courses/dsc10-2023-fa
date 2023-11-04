@@ -19,7 +19,7 @@ nav_order: 1
 
 <!-- Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis. -->
 
-[Jump to the current week](#week-5-midterm-exam){: .btn }
+[Jump to the current week](#week-6-confidence-intervals-and-the-normal-distribution){: .btn }
 
 {% for module in site.modules %}
 {{ module }}

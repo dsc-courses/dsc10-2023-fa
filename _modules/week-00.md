@@ -5,8 +5,8 @@
       - date: 2023-9-29
         events:
           "**LEC 1**{: .label .label-lecture } [Introduction](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec01/lec01.ipynb) [✏️](resources/lectures/lec01/lec01.html)":
-	  "<small><i><span style='display: inline-block; padding-left: 80px; margin-top: -25px'>numpy, indexing, positions</span></i></small>":
             "[CIT 1.0-1.3](https://inferentialthinking.com/chapters/01/what-is-data-science.html)"
+            "<small><i><span style='display: inline-block; padding-left: 80px; margin-top: -25px'>numpy, indexing, positions</span></i></small>":
 
           "**SUR**{: .label .label-survey } [**Welcome Survey**](https://docs.google.com/forms/d/1jqXmpDI2YByocQ5W1gcSk1o3hNff-Qi-sIMTuq_tN1U/edit)":
             
