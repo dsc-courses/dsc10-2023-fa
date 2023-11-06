@@ -11,7 +11,7 @@
         events:
           "**LEC 14**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> probability vs. empirical distribution, SRS, .sample, parameter, statistic, estimate</span></i></small>":
 
 
           "**DIS 5**{: .label .label-disc } [Midterm Exam Walkthrough](../resources/exams/fa23-midterm-sol.pdf)":    
@@ -19,6 +19,6 @@
         events:
           "**LEC 15**{: .label .label-lecture } [Bootstrapping and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)"
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval</span></i></small>":
 
 ---
