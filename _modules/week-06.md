@@ -5,7 +5,7 @@
     days:
       - date: 2023-11-6
         events: 
-          "**LEC 16**{: .label .label-lecture } Confidence Intervals":
+          "**LEC 16**{: .label .label-lecture } [Confidence Intervals, Center, and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)"
           "**PROJ**{: .label .label-proj } **[Midterm Project: Taylor Swift](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
 
