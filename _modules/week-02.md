@@ -6,7 +6,7 @@
         events: 
           "**LEC 5**{: .label .label-lecture } [Querying and Grouping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec05/lec05.ipynb) [✏️](resources/lectures/lec05/lec05.html)":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |,  .take, .groupby,  aggregation methods, .drop</span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |,  .take, .groupby,  aggregation</span></i></small>":
       - date: 2023-10-11
         events:
           "**LEC 6**{: .label .label-lecture } [Grouping and Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html)":
