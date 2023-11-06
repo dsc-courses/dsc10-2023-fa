@@ -7,7 +7,7 @@
         events: 
           "**LEC 11**{: .label .label-lecture } [Probability](../resources/lectures/lec11/lec11-blank.pdf) (annotated: [8AM](../resources/lectures/lec11/lec11-8am.pdf) • [1PM](../resources/lectures/lec11/lec11-1pm.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> outcome, event, conditional prob., multiplication and addition rules, independence</span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence</span></i></small>":
 
       - date: 2023-10-25
         events:
