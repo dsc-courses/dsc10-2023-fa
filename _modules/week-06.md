@@ -26,6 +26,9 @@
 
       - date: 2023-11-11
         events:
-          "**HW 4**{: .label .label-hw } Simulation, Sampling, Bootstrapping":
+          "**HW 4**{: .label .label-hw } [**Simulation, Sampling, Bootstrapping**]
+          (http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworkds/hw04/hw04.ipynb)":
+
+
           "**SUR**{: .label .label-survey } [**Mid-Quarter Survey**](https://docs.google.com/forms/d/e/1FAIpQLSenMue3wGwX7OVIE0RMJ4OFzMtg0YG3T2PqXikcB7594ij5kg/viewform)":
 ---
