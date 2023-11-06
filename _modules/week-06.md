@@ -7,6 +7,8 @@
         events: 
           "**LEC 16**{: .label .label-lecture } [Confidence Intervals, Center, and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)"
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev</span></i></small>":
+
           "**PROJ**{: .label .label-proj } **[Midterm Project: Taylor Swift](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
 
       - date: 2023-11-8
