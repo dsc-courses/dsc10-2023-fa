@@ -1,0 +1,10 @@
+test = {   'name': 'q4_3',
+    'points': None,
+    'suites': [   {   'cases': [   {   'code': ">>> callable(ci_and_hist) and (ljubljana_string != None) # Make sure your function returns a string, and doesn't just print a string\nTrue",
+                                       'hidden': False,
+                                       'locked': False},
+                                   {'code': ">>> ljubljana_string[:65] == 'A 99% confidence interval for average hotel price in Ljubljana is'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
