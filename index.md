@@ -14,6 +14,7 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .success }
+> - **Suraj's 1PM lecture on Wednesday 11/8 will be held on Zoom – [here's the link](https://ucsd.zoom.us/my/rampure).**
 > - **The deadline for the Midterm Project has been extended until Monday, November 6th! You can still use up to 2 slip days on it.**
 > - **If at least 80% of the class completes the [Mid-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSenMue3wGwX7OVIE0RMJ4OFzMtg0YG3T2PqXikcB7594ij5kg/viewform) by Saturday, November 11th, then everyone will receive an addition 2 points on the Midterm Exam!**
 
