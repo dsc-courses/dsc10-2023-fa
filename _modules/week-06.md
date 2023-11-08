@@ -16,7 +16,7 @@
           "**LEC 17**{: .label .label-lecture } [Standardization and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html)":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)"
 
-          "**DIS 6**{: .label .label-disc } Bootstrapping and Confidence Intervals":    
+          "**DIS 6**{: .label .label-disc } [Sampling, Bootstrapping, and Confidence Intervals] (https://practice.dsc10.com/disc06/index.html)":    
 
       - date: 2023-11-9
         events:
