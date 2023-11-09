@@ -15,7 +15,7 @@
 
           "**DIS 7**{: .label .label-disc } Sampling and Bootstrapping":   
           
-          "**QUIZ 3**{: .label .label-quiz } In Discussion, Covers Lectures 11-12 and 14-15":   
+          "**QUIZ 3**{: .label .label-quiz } In Discussion, Covers Lectures 14-17":   
 
       - date: 2023-11-17
         events:

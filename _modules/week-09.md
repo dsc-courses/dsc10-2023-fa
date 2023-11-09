@@ -17,7 +17,7 @@
 
           "**DIS 9**{: .label .label-disc } Hypothesis Testing": 
           
-          "**QUIZ 4**{: .label .label-quiz } In Discussion, Covers Lectures 16-22":
+          "**QUIZ 4**{: .label .label-quiz } In Discussion, Covers Lectures 18-22":
           
       - date: 2023-12-1
         events:
