@@ -13,12 +13,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .success }
-> - **If at least 80% of the class completes the [Mid-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSenMue3wGwX7OVIE0RMJ4OFzMtg0YG3T2PqXikcB7594ij5kg/viewform) by Saturday, November 11th, then everyone will receive an addition 2 points on the Midterm Exam!**
-
 <!-- Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis. -->
 
-[Jump to the current week](#week-6-confidence-intervals-and-the-normal-distribution){: .btn }
+[Jump to the current week](#week-7-central-limit-theorem){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
