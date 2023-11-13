@@ -5,7 +5,7 @@
     days:
       - date: 2023-11-13
         events: 
-          "**LEC 18**{: .label .label-lecture } Central Limit Theorem":
+          "**LEC 18**{: .label .label-lecture } [The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
 
       - date: 2023-11-15
