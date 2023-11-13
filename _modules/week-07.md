@@ -13,7 +13,7 @@
           "**LEC 19**{: .label .label-lecture } Central Limit Theorem, Sample Size":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
 
-          "**DIS 7**{: .label .label-disc } Standardization and the Normal Distribution":   
+          "**DIS 7**{: .label .label-disc } [Standardization and the Normal Distribution](https://practice.dsc10.com/disc07/index.html)":   
           
           "**QUIZ 3**{: .label .label-quiz } In Discussion, Covers Lectures 14-17":   
 
