@@ -24,6 +24,6 @@
 
       - date: 2023-11-18
         events:
-          "**Lab 5**{: .label .label-lab } **[Variability and the Normal Distribution**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab05/lab05.ipynb)":
+          "**Lab 5**{: .label .label-lab } [**Variability and the Normal Distribution**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab05/lab05.ipynb)":
 
 ---
