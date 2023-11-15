@@ -5,7 +5,7 @@
     days:
       - date: 2023-11-13
         events: 
-          "**LEC 18**{: .label .label-lecture } Central Limit Theorem":
+          "**LEC 18**{: .label .label-lecture } [The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
 
       - date: 2023-11-15
@@ -13,7 +13,7 @@
           "**LEC 19**{: .label .label-lecture } Central Limit Theorem, Sample Size":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
 
-          "**DIS 7**{: .label .label-disc } Sampling and Bootstrapping":   
+          "**DIS 7**{: .label .label-disc } [Standardization and the Normal Distribution](https://practice.dsc10.com/disc07/index.html)":   
           
           "**QUIZ 3**{: .label .label-quiz } In Discussion, Covers Lectures 14-17":   
 
