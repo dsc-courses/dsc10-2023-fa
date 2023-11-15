@@ -10,7 +10,7 @@
 
       - date: 2023-11-15
         events:
-          "**LEC 19**{: .label .label-lecture } Central Limit Theorem, Sample Size":
+          "**LEC 19**{: .label .label-lecture } [Choosing Sample Sizes, Statistical Models](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
 
           "**DIS 7**{: .label .label-disc } [Standardization and the Normal Distribution](https://practice.dsc10.com/disc07/index.html)":   
