@@ -19,7 +19,7 @@
 
       - date: 2023-11-17
         events:
-          "**LEC 20**{: .label .label-lecture } Models":
+          "**LEC 20**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
             "[CIT 11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)"
 
       - date: 2023-11-18
