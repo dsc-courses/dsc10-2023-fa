@@ -10,7 +10,7 @@
 
       - date: 2023-12-5
         events:
-          "**PROJ**{: .label .label-proj } **Final Project** (see [partner guidelines](project-partners))":
+          "**PROJ**{: .label .label-proj } **[Final Project: Meteorites](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=projects/final-project/final-project.ipynb)** (see [partner guidelines](project-partners))":
 
       - date: 2023-12-6
         events:
