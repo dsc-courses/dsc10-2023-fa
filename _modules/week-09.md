@@ -8,7 +8,7 @@
           "**LEC 23**{: .label .label-lecture } Permutation Testing":
             "[CIT 12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)"
 
-          "**Lab 6**{: .label .label-lab } [**Hypothesis Testing**]http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab06/lab06.ipynb)":
+          "**Lab 6**{: .label .label-lab } [**Hypothesis Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab06/lab06.ipynb)":
 
       - date: 2023-11-29
         events:
