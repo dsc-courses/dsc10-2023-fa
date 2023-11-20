@@ -5,7 +5,7 @@
     days:
       - date: 2023-11-20
         events: 
-          "**LEC 21**{: .label .label-lecture } Hypothesis Testing and TVD":
+          "**LEC 21**{: .label .label-lecture } [Hypothesis Testing and Total Variation Distance](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec21/lec21.ipynb) [✏️](resources/lectures/lec21/lec21.html)":
             "[CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)"
       - date: 2023-11-21
         events:
