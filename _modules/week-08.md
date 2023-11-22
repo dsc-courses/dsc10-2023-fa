@@ -15,7 +15,7 @@
           "**LEC 22**{: .label .label-lecture } Permutation Testing":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
 
-          "**DIS 8**{: .label .label-disc } Central Limit Theorem and Hypothesis Testing":    
+          "**DIS 8**{: .label .label-disc } [Central Limit Theorem and Hypothesis Testing](https://practice.dsc10.com/disc08/index.html)":    
       - date: 2023-11-24
         events:
           "No Lecture (Thanksgiving 🦃)":
