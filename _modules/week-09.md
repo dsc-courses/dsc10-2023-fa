@@ -24,5 +24,5 @@
           "**LEC 25**{: .label .label-lecture } Regression, Least Squares":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
 
-          "**HW 6**{: .label .label-hw } Hypothesis Testing and Permutation Testing":
+          "**HW 6**{: .label .label-hw } [**Hypothesis Testing and Permutation Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworks/hw06/hw06.ipynb)":
 ---
