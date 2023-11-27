@@ -5,7 +5,7 @@
     days:
       - date: 2023-11-27
         events: 
-          "**LEC 23**{: .label .label-lecture } Permutation Testing":
+          "**LEC 23**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)"
 
           "**Lab 6**{: .label .label-lab } [**Hypothesis Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab06/lab06.ipynb)":
