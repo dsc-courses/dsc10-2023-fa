@@ -12,7 +12,7 @@
 
       - date: 2023-11-29
         events:
-          "**LEC 24**{: .label .label-lecture } Correlation":
+          "**LEC 24**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)":
             "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
 
           "**DIS 9**{: .label .label-disc } [Total Variation Distance and Permutation Testing](https://practice.dsc10.com/disc09/index.html)": 
