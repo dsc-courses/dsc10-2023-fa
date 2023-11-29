@@ -15,7 +15,7 @@
           "**LEC 24**{: .label .label-lecture } Correlation":
             "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
 
-          "**DIS 9**{: .label .label-disc } Hypothesis Testing": 
+          "**DIS 9**{: .label .label-disc } [Total Variation Distance and Permutation Testing](https://practice.dsc10.com/disc09/index.html)": 
           
           "**QUIZ 4**{: .label .label-quiz } In Discussion, Covers Lectures 18-22":
           
