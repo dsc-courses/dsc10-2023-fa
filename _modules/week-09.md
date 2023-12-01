@@ -21,7 +21,7 @@
           
       - date: 2023-12-1
         events:
-          "**LEC 25**{: .label .label-lecture } Regression, Least Squares":
+          "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
 
           "**HW 6**{: .label .label-hw } [**Hypothesis Testing and Permutation Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=homeworks/hw06/hw06.ipynb)":
