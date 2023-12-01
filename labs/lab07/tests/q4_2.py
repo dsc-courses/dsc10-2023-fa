@@ -1,0 +1,12 @@
+test = {   'name': 'q4_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> true_predictions != []\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 1 not in true_predictions\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 3 not in true_predictions\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 4 not in true_predictions\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> 5 not in true_predictions\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> set(true_predictions) == {2}\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
