@@ -19,7 +19,7 @@
           "**DIS 10**{: .label .label-disc } Regression":   
       - date: 2023-12-7
         events:
-          "**Lab 7**{: .label .label-lab } Regression": 
+          "**Lab 7**{: .label .label-lab } [**Regression**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-fa&subPath=labs/lab07/lab07.ipynb)":
       - date: 2023-12-8
         events:
           "**LEC 28**{: .label .label-lecture } Review, Conclusion":
