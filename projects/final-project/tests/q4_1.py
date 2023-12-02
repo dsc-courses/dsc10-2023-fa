@@ -1,6 +1,6 @@
 test = {   'name': 'q4_1',
     'points': 2,
-    'suites': [   {   'cases': [   {'code': ">>> isinstance(asia_na, bpd.DataFrame) and np.all(asia_na.columns == ['mass', 'continent'])\nTrue", 'hidden': False, 'locked': False},
+    'suites': [   {   'cases': [   {'code': ">>> isinstance(asia_na, bpd.DataFrame) and set(asia_na.columns) == set(['mass', 'continent'])\nTrue", 'hidden': False, 'locked': False},
                                    {'code': '>>> np.isclose(observed_diff, 488.1300000000001)\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> 0 <= mass_p_value <= 1\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> isinstance(diff_medians, np.ndarray) and len(diff_medians) == 1000\nTrue', 'hidden': False, 'locked': False}],
