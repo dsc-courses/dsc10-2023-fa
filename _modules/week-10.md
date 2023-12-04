@@ -14,7 +14,7 @@
 
       - date: 2023-12-6
         events:
-          "**LEC 27**{: .label .label-lecture } Review":
+          "**LEC 27**{: .label .label-lecture } Review of the Spring 2023 Final Exam":
 
           "**DIS 10**{: .label .label-disc } Regression":   
       - date: 2023-12-7
@@ -26,8 +26,8 @@
 
       - date: 2023-12-9
         events:
-          "**EXAM**{: .label .label-exam } **Final Exam** (7-10PM, location TBD)":
-          "**SUR**{: .label .label-survey } End-of-Quarter Survey and Evaluations (due 8AM)":
+          "**EXAM**{: .label .label-exam } **Final Exam (7-10PM, see location [here](https://docs.google.com/spreadsheets/d/13oQoPFSTEvFCpKqiTjvybolzUNOlkGLRPnAAdUETjiU/edit#gid=0) and details [here](https://edstem.org/us/courses/48101/discussion/3988059))**":
+          "**SUR**{: .label .label-survey } **[SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSeaQYHSzfjHIVnn-XtIxEBjEacddwEVC2bomgkTV_vVM--wCA/viewform) (due 8AM)**":
 ---
 
 
