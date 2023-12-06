@@ -14,7 +14,7 @@
 
       - date: 2023-12-6
         events:
-          "**LEC 27**{: .label .label-lecture } Review of the Spring 2023 Final Exam":
+          "**LEC 27**{: .label .label-lecture } [Review of the Spring 2023 Final Exam](resources/lectures/lec27/lec27-blank.pdf)":
 
           "**DIS 10**{: .label .label-disc } [Regression](https://practice.dsc10.com/disc10/index.html)":   
       - date: 2023-12-7
